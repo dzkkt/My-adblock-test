@@ -73,3 +73,7 @@ anime-suba.com###light
 anime-suba.com##.img01 > a
 anime-suba.com##.img > a
 
+! 2023/04/25 nongsexy.com
+nongsexy.com##center
+nongsexy.com##div#fixedbanner
+
