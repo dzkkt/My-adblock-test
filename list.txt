@@ -73,7 +73,35 @@ anime-suba.com###light
 anime-suba.com##.img01 > a
 anime-suba.com##.img > a
 
+! 2023/02/20 manga-uptocats.com
+manga-uptocats.com###upcat_ads1
+manga-uptocats.com###upcat_ads2
+manga-uptocats.com###upcat_ads3
+!manga-uptocats.com##.text-center.n-ban
+manga-uptocats.com##.wp-manga.c-top-sidebar.c-sidebar
+
 ! 2023/04/25 nongsexy.com
 nongsexy.com##center
 nongsexy.com##div#fixedbanner
+
+! 2023/04/25 miku-doujin.com
+miku-doujin.com##.mb-3.text-center.container
+miku-doujin.com##.mb-3.text-center
+
+! 2023/04/25 hentaithai.com
+!hentaithai.com##div.row:nth-of-type(2)
+!hentaithai.com###nziKSZf1
+!hentaithai.com##.iframe-width
+!hentaithai.com##.justify-content-sm-center.row > .col-12
+||hentaithai.com/banner/
+||hentaithai.com/nb/
+
+! 2023/04/27 animehdzeroo.com
+animehdzeroo.com##div#ads_02
+animehdzeroo.com##div#ads_03
+animehdzeroo.com##div#ads_04
+animehdzeroo.com##div>.row > div.col-lg-12 > div.cb-header
+animehdzeroo.com##div.card-body > center > p > a > img.img-fluid
+animehdzeroo.com##div.col-lg-3 > div.d-flex align-items-center
+animehdzeroo.com##div.card-body > a[target ="_blank"] > img
 
