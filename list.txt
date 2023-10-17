@@ -105,3 +105,9 @@ animehdzeroo.com##div.card-body > center > p > a > img.img-fluid
 animehdzeroo.com##div.col-lg-3 > div.d-flex align-items-center
 animehdzeroo.com##div.card-body > a[target ="_blank"] > img
 
+! 2023/10/188 aunstory.com
+aunstory.com##div#wpgtr_stickyads_textcss_container
+
+! 2023/10/188 hanimesubth.com
+hanimesubth.com##div#header-ads
+hanimesubth.com##img.img-ads
