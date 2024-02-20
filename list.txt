@@ -1,71 +1,110 @@
+! 2024-02-20 gbatemp.net
+gbatemp.net###gbatemp_playwire_video
+
 ! 2023-01-07 gbatemp.net
-gbatemp.net##div[style^="margin-bottom: 10px;"]
+!gbatemp.net##div[style^="margin-bottom: 10px;"]
 
 ! 2023-01-07 mawtoload.com
-mawtoload.com##div[class^="code-block code-block-6"]
-mawtoload.com##div#banner-left
-mawtoload.com##div#banner-post
-mawtoload.com##div#banner-footer
-mawtoload.com##div#sticky-banner
-mawtoload.com##div#side-banner
-mawtoload.com##div#footer-banner
+!mawtoload.com##div[class^="code-block code-block-6"]
+!mawtoload.com##div#banner-left
+!mawtoload.com##div#banner-post
+!mawtoload.com##div#banner-footer
+!mawtoload.com##div#sticky-banner
+!mawtoload.com##div#side-banner
+!mawtoload.com##div#footer-banner
 
-! 2023-01-07 037hdmovie.com
+! 2024-02-20 037hdmovie.com
+037hdmovie.com###ads-single
+037hdmovie.com###ads-popup
+037hdmovie.com###ads-bottom-player
 037hdmovie.com###banner-left
 037hdmovie.com###ads_fox_bottom
-037hdmovie.com###content>div.leftC>div:has(>div[style="text-align: center;"])
-037hdmovie.com##.filmborder>.filmcontent>div[style="text-align: center;"]
-037hdmovie.com###sidebar>div[style="text-align: center;"]
-037hdmovie.com###sidebar>div:has(>div>div>div>a)
+037hdmovie.com###ads-sidebar-single-top
+037hdmovie.com###ads-sidebar-single-bottom
 
-! 2023-01-07 anime-subth.net
+! 2023-01-07 037hdmovie.com
+!037hdmovie.com###banner-left
+!037hdmovie.com###ads_fox_bottom
+!037hdmovie.com###content>div.leftC>div:has(>div[style="text-align: center;"])
+!037hdmovie.com##.filmborder>.filmcontent>div[style="text-align: center;"]
+!037hdmovie.com###sidebar>div[style="text-align: center;"]
+!037hdmovie.com###sidebar>div:has(>div>div>div>a)
+
+! 2023-01-07 anime-kimuchi.com | anime-kimuchi.net
+anime-kimuchi.com,anime-kimuchi.net##.b-ads
+anime-kimuchi.com,anime-kimuchi.net##.img-ads
+
+! 2024-02-20 anime-subth.net
 anime-subth.net##.b-ads
 anime-subth.net##.img-ads
+anime-subth.net##.slider-l
+anime-subth.net##.slider-r
+anime-subth.net##.ads-banner
 
-! 2023-01-07 animehayai.net
+! 2024-02-20 animehayai.net
 animehayai.net##.col-12
+animehayai.net##.ads-banner
+animehayai.net##div[class^="column"]
 animehayai.net##.panel-body > .bottom-2x.text-center
 animehayai.net##.banner-close.message
 
-! 2023-01-07 niceoppai.net
+! 2024-02-20 niceoppai.net
 niceoppai.net##.widget_text.top_page
-niceoppai.net###text-90
+!niceoppai.net###text-90
 niceoppai.net###sct_top_banner
 niceoppai.net##.mng_rdr.wpm_pag>center
 niceoppai.net###sct_footer_banner
+niceoppai.net###text-6
 
 ! 2023-01-07 oremanga.net
 oremanga.net##.header-ads-section
 
-! 2023-01-07 doujinza.com
+! 2024-02-20 doujinza.com
+doujinza.com###ads_05
 doujinza.com###ads_04
 doujinza.com###ads_03
 doujinza.com###ads_02
-doujinza.com###ads_01
+!doujinza.com###ads_01
 doujinza.com###custom_html-5
+doujinza.com###custom_html-4
 doujinza.com##.text-center.dj-banner
-!doujinza.com##div.text-center>.col-12
+doujinza.com##.c-footer-sidebar
+!doujinza.com##div.text-center > .col-12
 
 ! ads video
 ! 2023-01-07 -- 037hdmovie.com
-||cdn77.org/videos/teenoi168.mp4$3p,media,redirect=noop-1s.mp4
+!||cdn77.org/videos/teenoi168.mp4$3p,media,redirect=noop-1s.mp4
 
-! 2023-01-08 ! thaimanga.net | สดใสเมะ.com | manhuakey.com | manhwabreakup.com
-thaimanga.net##.ads
-สดใสเมะ.com##.ads
-manhuakey.com##.ads
-manhwabreakup.com##.ads
+! ads video
+||cdn77.org^$media,redirect=noop-1s.mp4,third-party
+||cdend.com^$media,redirect=noop-1s.mp4,third-party
+||sub-thai.com^$media,redirect=noop-1s.mp4,third-party
+||huay.net^$media,redirect=noop-1s.mp4,third-party
+
+! 2024-02-20 ! thaimanga.net | สดใสเมะ.com | manhuakey.com | manhwabreakup.com
+thaimanga.net,สดใสเมะ.com,manhuakey.com,manhwabreakup.com##div.ads
+manhuakey.com,manhwabreakup.com##div.ads-float
+
+! 2024-02-20 พอนฮับ.net
+พอนฮับ.net###single-wrapper > .container
+พอนฮับ.net##.loading.ph-img-responsive
+พอนฮับ.net###ads_05
+พอนฮับ.net###ads_04
+พอนฮับ.net###ads_03
+พอนฮับ.net###ads_02
 
 ! 2023-01-08 alpha-hen.com
 alpha-hen.com###custom_html-5
 alpha-hen.com###custom_html-7
 alpha-hen.com###custom_html-8
 
-! 2023-01-25 anime-masters.com
+! 2024-02-20 anime-masters.com
 anime-masters.com##div#slider-b
 anime-masters.com##div>.row > p.center_lnwphp
-anime-masters.com##center:nth-of-type(4)
-anime-masters.com##center:nth-of-type(2)
+anime-masters.com##.col-md-12 > center > p
+!anime-masters.com##center:nth-of-type(4)
+!anime-masters.com##center:nth-of-type(2)
+anime-masters.com##.footer.jumbotron
 
 ! 2023-01-25 anime-suba.com
 anime-suba.com##.figure02
@@ -96,18 +135,158 @@ miku-doujin.com##.mb-3.text-center
 ||hentaithai.com/banner/
 ||hentaithai.com/nb/
 
-! 2023/04/27 animehdzeroo.com
+! 2024/02/20 animehdzeroo.com *remain 1
 animehdzeroo.com##div#ads_02
 animehdzeroo.com##div#ads_03
 animehdzeroo.com##div#ads_04
-animehdzeroo.com##div>.row > div.col-lg-12 > div.cb-header
+animehdzeroo.com##.cb-header
+!animehdzeroo.com##div>.row > div.col-lg-12 > div.cb-header
+!animehdzeroo.com##div.col-lg-3 > div.d-flex align-items-center
 animehdzeroo.com##div.card-body > center > p > a > img.img-fluid
-animehdzeroo.com##div.col-lg-3 > div.d-flex align-items-center
+animehdzeroo.com##div.col-lg-3 > [href] > img
 animehdzeroo.com##div.card-body > a[target ="_blank"] > img
 
-! 2023/10/188 aunstory.com
-aunstory.com##div#wpgtr_stickyads_textcss_container
+! 2024/02/20 aunstory.com *remain 1
+aunstory.com##div.adx_bottom.x_ax
+!aunstory.com##div#wpgtr_stickyads_textcss_container
 
-! 2023/10/188 hanimesubth.com
+
+! 2023/10/18 hanimesubth.com
 hanimesubth.com##div#header-ads
 hanimesubth.com##img.img-ads
+
+
+! 2024/01/10 animeloki.com
+animeloki.com##div#banner.banner-wrapper
+
+! 2024/02/20 doomovieth.com
+!doomovieth.com##div.text-center.mb-1.col-20.col-md-20.col-lg-20 > [href] > .img-fluid
+doomovieth.com,porn-d.com,ianimeth.com,imovieth.com##.col-20.col-md-20.col-lg-20 > .row
+doomovieth.com,porn-d.com,ianimeth.com,imovieth.com##.my-3.col-20.col-lg-20 > div.row > .col-20.col-lg-20
+doomovieth.com,porn-d.com,ianimeth.com,imovieth.com##.mt-1.col-20.col-lg-20 > .widget
+
+! 2023/10/18 annoyed ads news
+thairath.co.th##div.cookiewrap
+thairath.co.th##div.e160b0jq8.css-1dq0ayl
+ch3plus.com###cookie_policy
+matichon.co.th###pdpa-popup
+khaosod.co.th##div.pdpa-wrapper
+khaosod.co.th##div.ads_position_wrapper
+topnews.co.th##div.jet-popup
+voicetv.co.th##div#cookie-notification
+thestandard.co##div.cwc-sdk-container
+amarintv.com,one31.net,posttoday.com##div#onetrust-banner-sdk
+prachatai.com##div#sliding-popup
+prachatai.com##div.support-pay
+pantip.com##.pt-snackbar
+
+! 2024/02/20 24-hd.com
+24-hd.com##.adcen
+24-hd.com##.ad
+24-hd.com##.adhl
+24-hd.com##.adl
+24-hd.com##.content-site
+
+!animeyuzu.com
+!old is animikimi
+!animeyuzu.com###animekimiads1
+!animeyuzu.com###animekimiads2
+!animeyuzu.com###animekimiads3
+!animeyuzu.com###animekimiads4
+!animeyuzu.com###animekimiads5
+
+! 2024/02/20 cats-translator.com
+cats-translator.com###ads_05
+cats-translator.com###ads_04
+cats-translator.com###ads_03
+cats-translator.com###ads_02
+cats-translator.com###custom_html-36
+cats-translator.com###custom_html-34
+!cats-translator.com###bottom_center_ads
+!cats-translator.com###advanced_floating_content_8358
+!cats-translator.com###advanced_floating_content_8364
+!cats-translator.com###custom_html-33
+
+! 2024/02/20 fairyanime.net
+fairyanime.net##div#kosana-content
+
+! 2024/02/20 germa-66.com
+germa-66.com##div.dessert-frame
+germa-66.com##div.ads
+germa-66.com##div.dessert-frame
+
+! 2024-01-08 https://manga168.com
+manga168.com###ads_fox_bottom
+manga168.com##.kln
+manga168.com##.dessert-frame
+
+! movie44.com.
+movie44.com##.section-top
+movie44.com###light3
+movie44.com###light2
+movie44.com###light1
+movie44.com##.box>center:has(>a)
+movie44.com##.box>div>center:has(>a)
+movie44.com##div[ex-cdn-popup]
+movie44.com###videoWrapper
+||movie44.com/wp-content/cache/min/1/wp-content/themes/movie44/js/script_movie.js
+
+! movieshdfree.com
+movieshdfree.com##.ad
+movieshdfree.com##.ad-float
+movieshdfree.com##a[target="_blank"]
+
+! opuree.com
+opuree.com##.text-center.overflow-hidden.box-shadow.rounded.bg-white.p-3.my-3
+opuree.com##.img-fluid
+opuree.com##a[rel="nofollow external"]
+
+! i-moviehd.com
+i-moviehd.com###banner_top
+i-moviehd.com###banner_low
+i-moviehd.com###ads_fox_bottom
+i-moviehd.com###banner-left
+
+! mangaisekaithai.com
+mangaisekaithai.com##div.ads
+mangaisekaithai.com##div:has(>a>img).ads
+
+! movie2fin.com
+movie2fin.com,movie678.com##.notice>div
+movie2fin.com,movie678.com##.notice>a
+movie2fin.com,movie678.com##.sidebar:has(>a[target="_new"])
+movie2fin.com,movie678.com##.box:has(>a[target="_new"])
+movie2fin.com,movie678.com###show_ads_c1
+movie2fin.com,movie678.com###ccc-banner-left
+movie2fin.com,movie678.com###aaa-banner-left
+
+! movie678.com
+!movie678.com##.notice>div
+!movie678.com##.notice>a
+!movie678.com##div:has(>a[target="_new"]).box
+!movie678.com###aaa-banner-left
+!movie678.com###ccc-banner-left
+!movie678.com###show_ads_c1
+
+! stream037hd.com
+stream037hd.com###close_ads
+
+! nabee-manga.com
+nabee-manga.com##.header-ads-section
+nabee-manga.com##a[target="_blank"] > img
+||nabee-manga.com/wp-content/uploads/**/*.gif$image,domain=nabee-manga.com
+||1.bp.blogspot.com/**/*.gif$image,domain=nabee-manga.com
+
+! wasabith.com
+wasabith.com###cat300_ads2
+wasabith.com###cat300_ads3
+wasabith.com###cat300_ads1
+wasabith.com##.mt-2.text-center.col-md-12
+
+! หนังออนไลน์.com
+หนังออนไลน์.com##a[rel="nofollow"]
+หนังออนไลน์.com##center
+
+! คลิปโป๊ออนไลน์.com
+คลิปโป๊ออนไลน์.com##center
+
