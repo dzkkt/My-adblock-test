@@ -80,6 +80,7 @@ doujinza.com##.c-footer-sidebar
 ||cdend.com^$media,redirect=noop-1s.mp4,third-party
 ||sub-thai.com^$media,redirect=noop-1s.mp4,third-party
 ||huay.net^$media,redirect=noop-1s.mp4,third-party
+||cameron-srva.com^$media,redirect=noop-1s.mp4,third-party
 
 ! 2024-02-20 ! thaimanga.net | สดใสเมะ.com | manhuakey.com | manhwabreakup.com
 thaimanga.net,สดใสเมะ.com,manhuakey.com,manhwabreakup.com##div.ads
