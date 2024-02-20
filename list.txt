@@ -86,12 +86,12 @@ thaimanga.net,สดใสเมะ.com,manhuakey.com,manhwabreakup.com##div.ads
 manhuakey.com,manhwabreakup.com##div.ads-float
 
 ! 2024-02-20 พอนฮับ.net
-พอนฮับ.net###single-wrapper > .container
-พอนฮับ.net##.loading.ph-img-responsive
-พอนฮับ.net###ads_05
-พอนฮับ.net###ads_04
-พอนฮับ.net###ads_03
-พอนฮับ.net###ads_02
+xn--q3cck4dgs.net###single-wrapper > .container
+xn--q3cck4dgs.net##.loading.ph-img-responsive
+xn--q3cck4dgs.net###ads_05
+xn--q3cck4dgs.net###ads_04
+xn--q3cck4dgs.net###ads_03
+xn--q3cck4dgs.net###ads_02
 
 ! 2023-01-08 alpha-hen.com
 alpha-hen.com###custom_html-5
@@ -284,9 +284,9 @@ wasabith.com###cat300_ads1
 wasabith.com##.mt-2.text-center.col-md-12
 
 ! หนังออนไลน์.com
-หนังออนไลน์.com##a[rel="nofollow"]
-หนังออนไลน์.com##center
+xn--72c9aba3d6aqa7a3pmd.com##a[rel="nofollow"]
+xn--72c9aba3d6aqa7a3pmd.com##center
 
 ! คลิปโป๊ออนไลน์.com
-คลิปโป๊ออนไลน์.com##center
+xn--42c6baga2dd6da0eti2a8e8a.com##center
 
