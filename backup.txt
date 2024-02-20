@@ -1,0 +1,113 @@
+! 2023-01-07 gbatemp.net
+gbatemp.net##div[style^="margin-bottom: 10px;"]
+
+! 2023-01-07 mawtoload.com
+mawtoload.com##div[class^="code-block code-block-6"]
+mawtoload.com##div#banner-left
+mawtoload.com##div#banner-post
+mawtoload.com##div#banner-footer
+mawtoload.com##div#sticky-banner
+mawtoload.com##div#side-banner
+mawtoload.com##div#footer-banner
+
+! 2023-01-07 037hdmovie.com
+037hdmovie.com###banner-left
+037hdmovie.com###ads_fox_bottom
+037hdmovie.com###content>div.leftC>div:has(>div[style="text-align: center;"])
+037hdmovie.com##.filmborder>.filmcontent>div[style="text-align: center;"]
+037hdmovie.com###sidebar>div[style="text-align: center;"]
+037hdmovie.com###sidebar>div:has(>div>div>div>a)
+
+! 2023-01-07 anime-subth.net
+anime-subth.net##.b-ads
+anime-subth.net##.img-ads
+
+! 2023-01-07 animehayai.net
+animehayai.net##.col-12
+animehayai.net##.panel-body > .bottom-2x.text-center
+animehayai.net##.banner-close.message
+
+! 2023-01-07 niceoppai.net
+niceoppai.net##.widget_text.top_page
+niceoppai.net###text-90
+niceoppai.net###sct_top_banner
+niceoppai.net##.mng_rdr.wpm_pag>center
+niceoppai.net###sct_footer_banner
+
+! 2023-01-07 oremanga.net
+oremanga.net##.header-ads-section
+
+! 2023-01-07 doujinza.com
+doujinza.com###ads_04
+doujinza.com###ads_03
+doujinza.com###ads_02
+doujinza.com###ads_01
+doujinza.com###custom_html-5
+doujinza.com##.text-center.dj-banner
+!doujinza.com##div.text-center>.col-12
+
+! ads video
+! 2023-01-07 -- 037hdmovie.com
+||cdn77.org/videos/teenoi168.mp4$3p,media,redirect=noop-1s.mp4
+
+! 2023-01-08 ! thaimanga.net | สดใสเมะ.com | manhuakey.com | manhwabreakup.com
+thaimanga.net##.ads
+สดใสเมะ.com##.ads
+manhuakey.com##.ads
+manhwabreakup.com##.ads
+
+! 2023-01-08 alpha-hen.com
+alpha-hen.com###custom_html-5
+alpha-hen.com###custom_html-7
+alpha-hen.com###custom_html-8
+
+! 2023-01-25 anime-masters.com
+anime-masters.com##div#slider-b
+anime-masters.com##div>.row > p.center_lnwphp
+anime-masters.com##center:nth-of-type(4)
+anime-masters.com##center:nth-of-type(2)
+
+! 2023-01-25 anime-suba.com
+anime-suba.com##.figure02
+anime-suba.com###light
+anime-suba.com##.img01 > a
+anime-suba.com##.img > a
+
+! 2023/02/20 manga-uptocats.com
+manga-uptocats.com###upcat_ads1
+manga-uptocats.com###upcat_ads2
+manga-uptocats.com###upcat_ads3
+!manga-uptocats.com##.text-center.n-ban
+manga-uptocats.com##.wp-manga.c-top-sidebar.c-sidebar
+
+! 2023/04/25 nongsexy.com
+nongsexy.com##center
+nongsexy.com##div#fixedbanner
+
+! 2023/04/25 miku-doujin.com
+miku-doujin.com##.mb-3.text-center.container
+miku-doujin.com##.mb-3.text-center
+
+! 2023/04/25 hentaithai.com
+!hentaithai.com##div.row:nth-of-type(2)
+!hentaithai.com###nziKSZf1
+!hentaithai.com##.iframe-width
+!hentaithai.com##.justify-content-sm-center.row > .col-12
+||hentaithai.com/banner/
+||hentaithai.com/nb/
+
+! 2023/04/27 animehdzeroo.com
+animehdzeroo.com##div#ads_02
+animehdzeroo.com##div#ads_03
+animehdzeroo.com##div#ads_04
+animehdzeroo.com##div>.row > div.col-lg-12 > div.cb-header
+animehdzeroo.com##div.card-body > center > p > a > img.img-fluid
+animehdzeroo.com##div.col-lg-3 > div.d-flex align-items-center
+animehdzeroo.com##div.card-body > a[target ="_blank"] > img
+
+! 2023/10/188 aunstory.com
+aunstory.com##div#wpgtr_stickyads_textcss_container
+
+! 2023/10/188 hanimesubth.com
+hanimesubth.com##div#header-ads
+hanimesubth.com##img.img-ads
