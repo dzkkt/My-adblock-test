@@ -4,6 +4,9 @@ gbatemp.net###gbatemp_playwire_video
 ! 2023-01-07 gbatemp.net
 !gbatemp.net##div[style^="margin-bottom: 10px;"]
 
+! 2023-03-08 mawtoload.com
+mawtoload.com##div#banner-post
+
 ! 2023-01-07 mawtoload.com
 !mawtoload.com##div[class^="code-block code-block-6"]
 !mawtoload.com##div#banner-left
@@ -188,13 +191,17 @@ pantip.com##.pt-snackbar
 24-hd.com##.adl
 24-hd.com##.content-site
 
-!animeyuzu.com
+! 2024/11/23 animeyuzu.com
 !old is animikimi
-!animeyuzu.com###animekimiads1
-!animeyuzu.com###animekimiads2
-!animeyuzu.com###animekimiads3
-!animeyuzu.com###animekimiads4
-!animeyuzu.com###animekimiads5
+animeyuzu.com##.module_home_x
+animeyuzu.com##.code-block-2.code-block
+animeyuzu.com##.code-block-3.code-block
+animeyuzu.com##.code-block-4.code-block
+animeyuzu.com###animekimiads1
+animeyuzu.com###animekimiads2
+animeyuzu.com###animekimiads3
+animeyuzu.com###animekimiads4
+animeyuzu.com###animekimiads5
 
 ! 2024/02/20 cats-translator.com
 cats-translator.com###ads_05
@@ -291,3 +298,6 @@ xn--72c9aba3d6aqa7a3pmd.com##center
 ! คลิปโป๊ออนไลน์.com
 xn--42c6baga2dd6da0eti2a8e8a.com##center
 
+! tanuki-manga.com
+tanuki-manga.com##div.ads
+tanuki-manga.com##div.mt-2 mb-2.text-center.col-md-12.ads 
