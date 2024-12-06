@@ -302,6 +302,13 @@ xn--42c6baga2dd6da0eti2a8e8a.com##center
 !tanuki-manga.com##div.ads
 tanuki-manga.com##div.mt-2 mb-2.text-center.col-md-12.ads
 
+! 2024/12/07 mangasuper.com
+mangasuper.com###block-9
+mangasuper.com###sticky-ads-bottom2
+mangasuper.com###sticky-ads-bottom3
+mangasuper.com###sticky-ads-bottom
+mangasuper.com###block-14
+
 ! 2024/12/07 mangakimi.com
 mangakimi.com##.header-ads-section
 
@@ -325,9 +332,7 @@ go-manga.com##div#sticky-bottom
 go-manga.com##div#sticky-bottom2
 go-manga.com##div#sticky-bottom3
 
-! 2024/12/07 mangasuper.com
-mangasuper.com###block-9
-mangasuper.com###sticky-ads-bottom2
-mangasuper.com###sticky-ads-bottom3
-mangasuper.com###sticky-ads-bottom
-mangasuper.com###block-14
+! 2024/12/07 toomtam-manga.com
+toomtam-manga.com##div.dessert-frame
+toomtam-manga.com##div#wbnn
+toomtam-manga.com##div.kln
