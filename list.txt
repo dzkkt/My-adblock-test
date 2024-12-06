@@ -318,6 +318,13 @@ up-manga.com##div#sticky-bottom
 up-manga.com##div#sticky-bottom2
 up-manga.com##div#sticky-bottom3
 
+! 2024/12/07 go-manga.com
+go-manga.com##div.center_gomanga
+go-manga.com##div.center_gomanga3
+go-manga.com##div#sticky-bottom
+go-manga.com##div#sticky-bottom2
+go-manga.com##div#sticky-bottom3
+
 ! 2024/12/07 mangasuper.com
 mangasuper.com###block-9
 mangasuper.com###sticky-ads-bottom2
