@@ -73,6 +73,7 @@ doujinza.com###ads_04
 doujinza.com###ads_03
 doujinza.com###ads_02
 !doujinza.com###ads_01
+doujinza.com###custom_html-6
 doujinza.com###custom_html-5
 doujinza.com###custom_html-4
 doujinza.com##.text-center.dj-banner
@@ -92,9 +93,10 @@ xn--q3cck4dgs.net###ads_03
 xn--q3cck4dgs.net###ads_02
 
 ! 2024-12-07 alpha-hen.com
-alpha-hen.com###custom_html-5
-alpha-hen.com###custom_html-7
-alpha-hen.com###custom_html-8
+!alpha-hen.com###custom_html-5
+!alpha-hen.com###custom_html-7
+!alpha-hen.com###custom_html-8
+alpha-hen.com##.dessert-frame
 
 ! 2024-02-20 anime-masters.com
 anime-masters.com##div#slider-b
@@ -144,7 +146,7 @@ animehdzeroo.com##div.card-body > center > p > a > img.img-fluid
 !animehdzeroo.com##div.col-lg-3 > [href] > img
 animehdzeroo.com##div.card-body > a[target ="_blank"] > img
 
-! 2024/12/07 aunstory.com *remain 1
+! 2024/12/07 aunstory.com
 aunstory.com##div.adx_bottom.x_ax
 aunstory.com##img[alt="banner"]
 !aunstory.com##div#wpgtr_stickyads_textcss_container
@@ -323,3 +325,4 @@ series469.com##div#bps_widget_ads-3
 ! 2024/12/14 ped-manga.com
 ped-manga.com##div.dessert-frame
 ped-manga.com##div#wbnn
+
