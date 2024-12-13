@@ -309,3 +309,17 @@ toomtam-manga.com##div.dessert-frame
 toomtam-manga.com##div#wbnn
 toomtam-manga.com##div.kln
 
+! 2024/12/14 series-888.com
+series-888.com##div#srb_widget_ads-3
+series-888.com##div#srb_widget_ads-4
+
+! 2024/12/14 1112hd.com
+1112hd.com##div.tt_banner_above_vdo_player
+
+! 2024/12/14 series469.com
+series469.com##div#bps_widget_ads-2
+series469.com##div#bps_widget_ads-3
+
+! 2024/12/14 ped-manga.com
+ped-manga.com##div.dessert-frame
+ped-manga.com##div#wbnn
