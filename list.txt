@@ -1,6 +1,7 @@
 ! 2024-12-07 universal site adsblock
 ##.ads
 !##.header-ads-section
+||proxyplayerth.com/images/banners/*.mp4$media
 
 ! 2024-02-20 gbatemp.net
 gbatemp.net###gbatemp_playwire_video
@@ -124,8 +125,8 @@ nongsexy.com##center
 nongsexy.com##div#fixedbanner
 
 ! 2023/04/25 miku-doujin.com
-miku-doujin.com##.mb-3.text-center.container
-miku-doujin.com##.mb-3.text-center
+miku-doujin.com##div.mb-3.text-center.container
+miku-doujin.com##div.mb-3.text-center
 
 ! 2024/12/07 hentaithai.com
 !hentaithai.com##div.row:nth-of-type(2)
@@ -139,7 +140,7 @@ miku-doujin.com##.mb-3.text-center
 animehdzeroo.com##div#ads_02
 animehdzeroo.com##div#ads_03
 animehdzeroo.com##div#ads_04
-animehdzeroo.com##.cb-header
+animehdzeroo.com##div.cb-header
 !animehdzeroo.com##div>.row > div.col-lg-12 > div.cb-header
 !animehdzeroo.com##div.col-lg-3 > div.d-flex align-items-center
 animehdzeroo.com##div.card-body > center > p > a > img.img-fluid
@@ -326,3 +327,36 @@ series469.com##div#bps_widget_ads-3
 ped-manga.com##div.dessert-frame
 ped-manga.com##div#wbnn
 
+! 2024-12-15 moviehdfree.net
+moviehdfree.net##a[rel="nofollow noopener noreferrer"]
+
+! 2024-12-15 av-subthaix.net
+av-subthaix.net##div.b-ads
+
+! 2024-12-15 kurokami.me
+kurokami.me##div#ads_02
+kurokami.me##div#ads_03
+kurokami.me##div#ads_04
+kurokami.me##div.banner728x200-div
+
+! 2024-12-15 doomovie-hd.pro
+doomovie-hd.pro##div.floating_ads_bt-mid_container
+doomovie-hd.pro##div.tv-player-banana 
+
+! 2024-12-15 shibaanime.com
+shibaanime.com##div#ads_02
+shibaanime.com##div#ads_03
+shibaanime.com##div#ads_04
+shibaanime.com##div.banner-nativetop
+
+! 2024-12-15 animesiam.com
+animesiam.com##div#abs_banner_web
+
+!site work anime-sugoi.com
+! 2024-12-15 anime-kawaii.com
+anime-kawaii.net##div.container > div.row > p.center_lnwphp
+anime-kawaii.net##div.panel-body > center > p
+
+! 2024-12-15 baan-series.org
+baan-series.org##div#before-player-ads
+baan-series.org##div#after-player-ads
