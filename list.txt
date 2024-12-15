@@ -42,8 +42,8 @@ mawtoload.com##div#banner-post
 ! 2024-12-16 anime-subth.net
 anime-subth.net##div.b-ads
 anime-subth.net##img.img-ads
-!anime-subth.net##div.slider-l
-!anime-subth.net##div.slider-r
+anime-subth.net##div.slider-l
+anime-subth.net##div.slider-r
 anime-subth.net##div.ads-banner
 
 ! 2024-12-16 animehayai.net
@@ -98,7 +98,7 @@ alpha-hen.com##div.dessert-frame
 anime-masters.com##div#slider-b
 anime-masters.com##div>.row > p.center_lnwphp
 anime-masters.com##div.col-md-12 > center > p
-! add remove bottom fucking text content
+! remove bottom fucking text content
 anime-masters.com##footer.footer.jumbotron
 
 ! 2024-12-16 anime-suba.com
@@ -183,7 +183,7 @@ pantip.com##div.pt-snackbar
 24-hd.com##aside.ad
 24-hd.com##div.adhl
 24-hd.com##div.adl
-! add remove bottom fucking text content
+! remove bottom fucking text content
 24-hd.com##div.content-site
 
 ! 2024/12/07 animeyuzu.com
@@ -337,3 +337,81 @@ anime-kawaii.net##div.panel-body > center > p
 baan-series.org##div#before-player-ads
 baan-series.org##div#after-player-ads
 
+! 2024-12-16 subthaixxx.com
+subthaixxx.com##img.ads800
+
+! 2024-12-16 pornxx24.com
+pornxx24.com##aside.banner-top
+pornxx24.com##aside.banner
+pornxx24.com##aside.banner-pag-1
+pornxx24.com##aside.banner-pag-2
+pornxx24.com##div.ad-float
+
+! 2024-12-16 javx24.com
+javx24.com##aside.banner
+javx24.com##aside.float-banner
+javx24.com##aside.bannerx
+javx24.com##div.ads-player-movie
+
+! 2024-12-16 javdob.com
+javdob.com##aside.clma12d04.dvcl
+javdob.com##center#bannermo550
+javdob.com##div#bt-ads
+
+! 2024-12-16 inu-manga.com
+inu-manga.com##div.header-ads-section
+
+! 2024-12-16 reborntrans.com
+reborntrans.com##div.wbnn
+reborntrans.com##div.article__header>center
+reborntrans.com##div.mb-4>center
+
+! 2024-12-16 nano-manga.com
+nano-manga.com##div#sticky-ads-bottom
+nano-manga.com##div#sticky-ads-bottom2
+nano-manga.com##div#sticky-ads-bottom3
+nano-manga.com##div.center
+! remove bottom fucking text content
+nano-manga.com##div#text-5
+
+! 2024-12-16 reapertrans.com
+reapertrans.com##div.ads-info
+!reapertrans.com##div#ads_02
+!reapertrans.com##div#ads_03
+!reapertrans.com##div#ads_04
+!reapertrans.com##div#ads_05
+reapertrans.com##div.sort-ban
+
+! 2024-12-16 haremmanhua.com
+haremmanhua.com##div.header-ads-section
+
+! 2024-12-16 popsmanga.com
+popsmanga.com##div.dessert-frame
+popsmanga.com##div#wbnn
+popsmanga.com##div.kln
+
+! 2024-12-16 god-manga.com
+god-manga.com##div.dessert-frame
+! remove bottom fucking text content
+god-manga.com##div.copyright
+
+! 2024-12-16 god-doujin.com
+god-doujin.com##div.ads-info
+!god-doujin.com##div#ads_02
+!god-doujin.com##div#ads_03
+!god-doujin.com##div#ads_04
+!god-doujin.com##div#ads_05
+god-doujin.com##div.gd-ban
+god-doujin.com##div.god-bnn
+
+! 2024-12-16 oredoujin.com
+oredoujin.com##div#content>div.wrapper>center
+oredoujin.com##div.epwrapper>center>a[rel="dofollow"]
+! remove bottom fucking text content
+oredoujin.com##div.copyright
+
+! 2024-12-16 murim-manga.com
+murim-manga.com##div.dessert-frame
+murim-manga.com##div.slider-l
+murim-manga.com##div.slider-r
+murim-manga.com##div#ads_fox_bottom
