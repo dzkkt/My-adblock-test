@@ -415,3 +415,18 @@ murim-manga.com##div.dessert-frame
 murim-manga.com##div.slider-l
 murim-manga.com##div.slider-r
 murim-manga.com##div#ads_fox_bottom
+
+! 2024-12-16 rose-manga.com
+rose-manga.com##div.dessert-frame
+
+! 2024-12-16 มังงะญี่ปุ่น.com
+มังงะญี่ปุ่น.com##div.ads-info
+!มังงะญี่ปุ่น.com##div#ads_02
+!มังงะญี่ปุ่น.com##div#ads_03
+!มังงะญี่ปุ่น.com##div#ads_04
+!มังงะญี่ปุ่น.com##div#ads_05
+มังงะญี่ปุ่น.com##div.th-ban
+
+! 2024-12-16 romance-manga.com
+romance-manga.com##div.rm-ads
+
