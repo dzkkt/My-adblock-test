@@ -1,13 +1,10 @@
 ! 2024-12-07 universal site adsblock
-##.ads
-!##.header-ads-section
+##div.ads
+!##div.header-ads-section
 ||proxyplayerth.com/images/banners/*.mp4$media
 
-! 2024-02-20 gbatemp.net
-gbatemp.net###gbatemp_playwire_video
-
-! 2023-01-07 gbatemp.net
-!gbatemp.net##div[style^="margin-bottom: 10px;"]
+! 2024-12-16 gbatemp.net
+gbatemp.net##div#gbatemp_playwire_video
 
 ! 2023-03-08 mawtoload.com
 mawtoload.com##div#banner-post
@@ -30,7 +27,6 @@ mawtoload.com##div#banner-post
 037hdmovie.com##div#ads-bottom-player
 037hdmovie.com##div#ads-sidebar-single-top
 037hdmovie.com##div#ads-sidebar-single-bottom
-!037hdmovie.com###banner-left
 ||cdn77.org^$media,redirect=noop-1s.mp4,third-party
 
 
@@ -43,82 +39,80 @@ mawtoload.com##div#banner-post
 !037hdmovie.com###sidebar>div:has(>div>div>div>a)
 
 
-! 2024-02-20 anime-subth.net
-anime-subth.net##.b-ads
-anime-subth.net##.img-ads
-anime-subth.net##.slider-l
-anime-subth.net##.slider-r
-anime-subth.net##.ads-banner
+! 2024-12-16 anime-subth.net
+anime-subth.net##div.b-ads
+anime-subth.net##img.img-ads
+!anime-subth.net##div.slider-l
+!anime-subth.net##div.slider-r
+anime-subth.net##div.ads-banner
 
-! 2024-02-20 animehayai.net
-animehayai.net##.col-12
-animehayai.net##.ads-banner
+! 2024-12-16 animehayai.net
+animehayai.net##div.col-12
+animehayai.net##div.ads-banner
 animehayai.net##div[class^="column"]
-animehayai.net##.panel-body > .bottom-2x.text-center
-animehayai.net##.banner-close.message
+animehayai.net##div.panel-body > div.bottom-2x.text-center
+animehayai.net##div.banner-close.message
 
-! 2024-02-20 niceoppai.net
-niceoppai.net##.widget_text.top_page
-!niceoppai.net###text-90
-niceoppai.net###sct_top_banner
-niceoppai.net##.mng_rdr.wpm_pag>center
-niceoppai.net###sct_footer_banner
-niceoppai.net###text-6
+! 2024-12-16 niceoppai.net
+niceoppai.net##div.widget_text.top_page
+niceoppai.net##div#sct_top_banner
+niceoppai.net##div.mng_rdr.wpm_pag>center
+niceoppai.net##div#sct_footer_banner
+niceoppai.net##li#text-6
 
-! 2023-01-07 oremanga.net
-oremanga.net##.header-ads-section
+! 2024-12-16 oremanga.net
+oremanga.net##div.header-ads-section
 
-! 2024-02-20 doujinza.com
-doujinza.com###ads_05
-doujinza.com###ads_04
-doujinza.com###ads_03
-doujinza.com###ads_02
-!doujinza.com###ads_01
-doujinza.com###custom_html-6
-doujinza.com###custom_html-5
-doujinza.com###custom_html-4
-doujinza.com##.text-center.dj-banner
-doujinza.com##.c-footer-sidebar
-!doujinza.com##div.text-center > .col-12
+! 2024-12-16 doujinza.com
+doujinza.com##div#ads_05
+doujinza.com##div#ads_04
+doujinza.com##div#ads_03
+doujinza.com##div#ads_02
+!doujinza.com##div#ads_01
+doujinza.com##div#custom_html-6
+doujinza.com##div#custom_html-5
+!doujinza.com##div#custom_html-4
+doujinza.com##div.text-center.dj-banner
+doujinza.com##div.c-footer-sidebar
+!doujinza.com##div.text-center > div.col-12
 
 ! 2024-02-20 ! thaimanga.net | สดใสเมะ.com | manhuakey.com | manhwabreakup.com
 !thaimanga.net,สดใสเมะ.com,manhuakey.com,manhwabreakup.com##div.ads
 manhuakey.com,manhwabreakup.com##div.ads-float
 
-! 2024-02-20 พอนฮับ.net
-xn--q3cck4dgs.net###single-wrapper > .container
-xn--q3cck4dgs.net##.loading.ph-img-responsive
-xn--q3cck4dgs.net###ads_05
-xn--q3cck4dgs.net###ads_04
-xn--q3cck4dgs.net###ads_03
-xn--q3cck4dgs.net###ads_02
+! 2024-12-16 พอนฮับ.net
+xn--q3cck4dgs.net##div.ph-center
+cyberpor.com##div.modal
+cyberpor.com##div.modal-backdrop
+!cyberpor.com##div#adsModal
+||cameron-srva.com^$media,redirect=noop-1s.mp4,third-party
 
-! 2024-12-07 alpha-hen.com
+! 2024-12-16 alpha-hen.com
+alpha-hen.com##div.dessert-frame
+!no specific tag becoz some use section/div/li
 !alpha-hen.com###custom_html-5
 !alpha-hen.com###custom_html-7
 !alpha-hen.com###custom_html-8
-alpha-hen.com##.dessert-frame
 
-! 2024-02-20 anime-masters.com
+! 2024-12-16 anime-masters.com
 anime-masters.com##div#slider-b
 anime-masters.com##div>.row > p.center_lnwphp
-anime-masters.com##.col-md-12 > center > p
-!anime-masters.com##center:nth-of-type(4)
-!anime-masters.com##center:nth-of-type(2)
-anime-masters.com##.footer.jumbotron
+anime-masters.com##div.col-md-12 > center > p
+! add remove bottom fucking text content
+anime-masters.com##footer.footer.jumbotron
 
-! 2023-01-25 anime-suba.com
-anime-suba.com##.figure02
-anime-suba.com###light
-anime-suba.com##.img01 > a
-anime-suba.com##.img > a
+! 2024-12-16 anime-suba.com
+anime-suba.com##div.figure02
+anime-suba.com##div#light
+anime-suba.com##div.img01 > a
+anime-suba.com##div.img > a
 
-! 2023/02/20 manga-uptocats.com
-manga-uptocats.com###upcat_ads1
-manga-uptocats.com###upcat_ads2
-manga-uptocats.com###upcat_ads3
+! 2024/12/16 manga-uptocats.com
+!manga-uptocats.com###upcat_ads1
+!manga-uptocats.com###upcat_ads2
+!manga-uptocats.com###upcat_ads3
+!manga-uptocats.com##.wp-manga.c-top-sidebar.c-sidebar
 !manga-uptocats.com##.text-center.n-ban
-manga-uptocats.com##.wp-manga.c-top-sidebar.c-sidebar
 
 ! 2023/04/25 nongsexy.com
 nongsexy.com##center
@@ -141,7 +135,7 @@ animehdzeroo.com##div#ads_02
 animehdzeroo.com##div#ads_03
 animehdzeroo.com##div#ads_04
 animehdzeroo.com##div.cb-header
-!animehdzeroo.com##div>.row > div.col-lg-12 > div.cb-header
+!animehdzeroo.com##div>div.row > div.col-lg-12 > div.cb-header
 !animehdzeroo.com##div.col-lg-3 > div.d-flex align-items-center
 animehdzeroo.com##div.card-body > center > p > a > img.img-fluid
 !animehdzeroo.com##div.col-lg-3 > [href] > img
@@ -163,9 +157,11 @@ animeloki.com##div#banner.banner-wrapper
 
 ! 2024/02/20 doomovieth.com
 !doomovieth.com##div.text-center.mb-1.col-20.col-md-20.col-lg-20 > [href] > .img-fluid
-doomovieth.com,porn-d.com,ianimeth.com,imovieth.com##.col-20.col-md-20.col-lg-20 > .row
-doomovieth.com,porn-d.com,ianimeth.com,imovieth.com##.my-3.col-20.col-lg-20 > div.row > .col-20.col-lg-20
-doomovieth.com,porn-d.com,ianimeth.com,imovieth.com##.mt-1.col-20.col-lg-20 > .widget
+doomovieth.com,porn-d.com,ianimeth.com,imovieth.com##div.col-20.col-md-20.col-lg-20 > div.row
+doomovieth.com,porn-d.com,ianimeth.com,imovieth.com##div.my-3.col-20.col-lg-20 > div.row > div.col-20.col-lg-20
+doomovieth.com,porn-d.com,ianimeth.com,imovieth.com##div.mt-1.col-20.col-lg-20 > div.widget
+! ianimeth.com seem like it's died
+
 
 ! 2023/10/18 annoyed ads news
 thairath.co.th##div.cookiewrap
@@ -180,41 +176,33 @@ thestandard.co##div.cwc-sdk-container
 amarintv.com,one31.net,posttoday.com##div#onetrust-banner-sdk
 prachatai.com##div#sliding-popup
 prachatai.com##div.support-pay
-pantip.com##.pt-snackbar
+pantip.com##div.pt-snackbar
 
-! 2024/02/20 24-hd.com
-24-hd.com##.adcen
-24-hd.com##.ad
-24-hd.com##.adhl
-24-hd.com##.adl
-24-hd.com##.content-site
+! 2024/12/16 24-hd.com
+24-hd.com##div.adcen
+24-hd.com##aside.ad
+24-hd.com##div.adhl
+24-hd.com##div.adl
+! add remove bottom fucking text content
+24-hd.com##div.content-site
 
 ! 2024/12/07 animeyuzu.com
 !old is animikimi
-animeyuzu.com##.module_home_x
-animeyuzu.com###animekimiads1
-animeyuzu.com###animekimiads2
-animeyuzu.com###animekimiads3
-animeyuzu.com###animekimiads4
-animeyuzu.com###animekimiads5
+animeyuzu.com##div.module_home_x
+animeyuzu.com##div#animekimiads1
+animeyuzu.com##div#animekimiads2
+animeyuzu.com##div#animekimiads3
+animeyuzu.com##div#animekimiads4
+animeyuzu.com##div#animekimiads5
 animeyuzu.com##img.animekimi-banner
-!animeyuzu.com##.code-block-2.code-block
-!animeyuzu.com##.code-block-3.code-block
-!animeyuzu.com##.code-block-4.code-block
 
-! 2024/12/07 cats-translator.com
-cats-translator.com###ads_05
-cats-translator.com###ads_04
-cats-translator.com###ads_03
-cats-translator.com###ads_02
-cats-translator.com###custom_html-2
-cats-translator.com###custom_html-3
-!cats-translator.com###custom_html-33
-!cats-translator.com###custom_html-34
-!cats-translator.com###custom_html-36
-!cats-translator.com###bottom_center_ads
-!cats-translator.com###advanced_floating_content_8358
-!cats-translator.com###advanced_floating_content_8364
+! 2024/12/16 cats-translator.com
+cats-translator.com##div#ads_05
+cats-translator.com##div#ads_04
+cats-translator.com##div#ads_03
+cats-translator.com##div#ads_02
+cats-translator.com##div#custom_html-2
+cats-translator.com##div#custom_html-3
 
 ! 2024/12/07 fairyanime.net
 fairyanime.net##div#kosana-content
@@ -225,16 +213,13 @@ germa-66.com##div.dessert-frame
 !germa-66.com##div.ads
 
 ! 2024-12-07 manga168.net
-manga168.net###ads_fox_bottom
-manga168.net##.kln
-manga168.net##.dessert-frame
+manga168.net##div#ads_fox_bottom
+manga168.net##div.kln
+manga168.net##div.dessert-frame
 
-! 2024-12-07 movieshdfree.com
-movieshdfree.com##.adhl
-movieshdfree.com##.adbr
-!movieshdfree.com##.ad
-!movieshdfree.com##.ad-float
-! movieshdfree.com##a[target="_blank"]
+! 2024-12-16 movieshdfree.com
+movieshdfree.com##div.adhl
+movieshdfree.com##div.adbr
 
 ! 2024-12-07 opuree.com
 opuree.com##a[rel="nofollow external"]
@@ -242,56 +227,46 @@ opuree.com##a[rel="nofollow external"]
 !opuree.com##.text-center.overflow-hidden.box-shadow.rounded.bg-white.p-3.my-3
 !opuree.com##.img-fluid
 
-! 2024-12-07 mangaisekaithai.com
+! 2024-12-16 mangaisekaithai.com
 !mangaisekaithai.com##div.ads
-mangaisekaithai.com##div:has(>a>img).ads
+!mangaisekaithai.com##div:has(>a>img).ads
 
-! 2024-12-07 movie2fin.com
-movie2fin.com##.notice>div
-movie2fin.com##.notice>a
-movie2fin.com##.sidebar:has(>a[target="_new"])
-movie2fin.com##.box:has(>a[target="_new"])
-movie2fin.com###show_ads_c1
-movie2fin.com###ccc-banner-left
-movie2fin.com###aaa-banner-left
-
+! 2024-12-16 movie2fin.com
+!movie2fin.com##div.notice>div
+!movie2fin.com##div.notice>a
+!movie2fin.com##div.sidebar:has(>a[target="_new"])
+!movie2fin.com##div.box:has(>a[target="_new"])
+!movie2fin.com##div#show_ads_c1
+!movie2fin.com##div#ccc-banner-left
+!movie2fin.com##div#aaa-banner-left
 
 ! 2024-12-07 nabee-manga.com
-nabee-manga.com##.header-ads-section
-!nabee-manga.com##a[target="_blank"] > img
-!||nabee-manga.com/wp-content/uploads/**/*.gif$image,domain=nabee-manga.com
-!||1.bp.blogspot.com/**/*.gif$image,domain=nabee-manga.com
-
-! 2024-12-07 wasabith.com
-wasabith.com###cat300_ads2
-wasabith.com###cat300_ads3
-wasabith.com###cat300_ads1
-!wasabith.com##.mt-2.text-center.col-md-12
+nabee-manga.com##div.header-ads-section
 
 ! 2024-12-07 คลิปโป๊ออนไลน์.com
 xn--42c6baga2dd6da0eti2a8e8a.com##center
 xn--42c6baga2dd6da0eti2a8e8a.com##div#slider-l
 xn--42c6baga2dd6da0eti2a8e8a.com##div#slider-r
 
-! 2024/12/07 tanuki-manga.com
+! 2024/12/16 tanuki-manga.com
 !tanuki-manga.com##div.ads
-tanuki-manga.com##div.mt-2 mb-2.text-center.col-md-12.ads
+!tanuki-manga.com##div.mt-2 mb-2.text-center.col-md-12.ads
 
 ! 2024/12/07 mangasuper.com
-mangasuper.com###block-9
-mangasuper.com###sticky-ads-bottom2
-mangasuper.com###sticky-ads-bottom3
-mangasuper.com###sticky-ads-bottom
-mangasuper.com###block-14
+mangasuper.com##div#block-9
+mangasuper.com##div#sticky-ads-bottom2
+mangasuper.com##div#sticky-ads-bottom3
+mangasuper.com##div#sticky-ads-bottom
+mangasuper.com##div#block-14
 
 ! 2024/12/07 mangakimi.com
-mangakimi.com##.header-ads-section
+mangakimi.com##div.header-ads-section
 
 ! 2024/12/07 flash-manga.com
-flash-manga.com##.header-ads-section
+flash-manga.com##div.header-ads-section
 
 ! 2024/12/07 manga-lc.net
-manga-lc.net###block-34
+manga-lc.net##div#block-34
 
 ! 2024/12/07 up-manga.com
 up-manga.com##div.center_upmanga
@@ -352,7 +327,8 @@ shibaanime.com##div.banner-nativetop
 ! 2024-12-15 animesiam.com
 animesiam.com##div#abs_banner_web
 
-!site work anime-sugoi.com
+!site work anime-sugoi.com , wasabith.com
+
 ! 2024-12-15 anime-kawaii.com
 anime-kawaii.net##div.container > div.row > p.center_lnwphp
 anime-kawaii.net##div.panel-body > center > p
@@ -360,3 +336,4 @@ anime-kawaii.net##div.panel-body > center > p
 ! 2024-12-15 baan-series.org
 baan-series.org##div#before-player-ads
 baan-series.org##div#after-player-ads
+
