@@ -1,7 +1,15 @@
-! 2024-12-07 universal site adsblock
+! 2024-12-07 universal site adsblock (allow mediafire)
+mediafire.com#@#div.ads
 ##div.ads
 !##div.header-ads-section
 ||proxyplayerth.com/images/banners/*.mp4$media
+||rakhuay.com/uploads/*.mp4$media
+||onlysubthai.com/video/*.mp4$media
+
+||cdend.com^$media,redirect=noop-1s.mp4,third-party
+||upfastfile.com^$media,redirect=noop-1s.mp4,third-party
+
+
 
 ! 2024-12-16 gbatemp.net
 gbatemp.net##div#gbatemp_playwire_video
@@ -430,3 +438,71 @@ rose-manga.com##div.dessert-frame
 ! 2024-12-16 romance-manga.com
 romance-manga.com##div.rm-ads
 
+! 2025-03-31 avkuy.net
+avkuy.net##div.b-ads
+avkuy.net##img.img-ads
+avkuy.net##div.slider-l
+avkuy.net##div.slider-r
+avkuy.net##div.ads-banner
+
+! 2025-03-31 123-hd.com
+123-hd.com##div#banner_top
+
+! 2025-03-31 movie2uhd.tv
+movie2uhd.tv##aside.adcen
+movie2uhd.tv##aside.ad
+movie2uhd.tv##div.adhl
+movie2uhd.tv##div.adcen
+movie2uhd.tv##div.adbr
+
+! 2025-03-31 nung2hdd.com
+nung2hdd.com##div.rIdV-top
+nung2hdd.com##div.rIdV-top-end
+nung2hdd.com##div.rIdV-mid
+nung2hdd.com##divrIdV-mid-end
+nung2hdd.com##div.rIdV-inpost
+
+! 2025-03-31 dooseries4k.com
+dooseries4k.com##img.ad-left
+dooseries4k.com##div.banner-movie
+
+! 2025-03-31 free928hd.com
+free928hd.com##div.ads-above-single-player
+
+! 2025-03-31 v8-hd.com
+v8-hd.com##div.row-kodsana
+
+! 2025-03-31 anime-hit.com
+anime-hit.com###watch-btn
+anime-hit.com##.watch-bnn.video-content.pb-2
+anime-hit.com##.watch-bnn
+
+! 2025-03-31 series-indy.com
+series-indy.com##div.kosana
+
+! 2025-03-31 up-manga.com
+up-manga.com##a[href^="/link_to.php"]
+
+! 2025-04-01 javcub.org
+javcub.org##a[rel="nofollow external noopener noreferrer"]
+javcub.org##div#ads_03
+javcub.org##div#ads_04
+javcub.org##div#ads_05
+javcub.org##div#ads_08
+javcub.org##div#ads_09
+
+! 2025-04-04 javyed.com
+javyed.com##div#ads_03
+javyed.com##div#ads_05
+javyed.com##div.main-content>center
+javyed.com##div#mv-info>center
+
+! 2025-04-04 javded.com
+javded.com##div#ads_03
+javded.com##div#ads_04
+javded.com##div#ads_05
+javded.com##div.row.site-content>center
+
+! 2025-04-13 เล่าเรื่องเสียว.com
+เล่าเรื่องเสียว.com##center > a > img
+เล่าเรื่องเสียว.com##div#fixedbanner
