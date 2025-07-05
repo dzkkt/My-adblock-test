@@ -2,9 +2,12 @@
 mediafire.com#@#div.ads
 ##div.ads
 !##div.header-ads-section
+
+
 ||proxyplayerth.com/images/banners/*.mp4$media
 ||rakhuay.com/uploads/*.mp4$media
 ||onlysubthai.com/video/*.mp4$media
+||animeh.net/ads/vid/*.mp4$media
 
 ||cdend.com^$media,redirect=noop-1s.mp4,third-party
 ||upfastfile.com^$media,redirect=noop-1s.mp4,third-party
@@ -506,3 +509,35 @@ javded.com##div.row.site-content>center
 ! 2025-04-13 เล่าเรื่องเสียว.com
 เล่าเรื่องเสียว.com##center > a > img
 เล่าเรื่องเสียว.com##div#fixedbanner
+
+! 2025-07-06 speed-manga.com
+speed-manga.com##div.kln
+
+! 2025-07-06 slow-manga.com
+slow-manga.com##div.header-ads-section
+
+! 2025-07-06 sawstory.com
+sawstory.com##div.x_ax adx_bottom
+sawstory.com##a[rel="nofollow"]
+
+! 2025-07-06 animeh.net
+animeh.net##div#ads
+animeh.net##div#adsR
+animeh.net##div#ads_bottom
+animeh.net##div#adsanimeh
+animeh.net##li.cat-item
+
+! 2025-07-06 mafia-manga.com
+mafia-manga.com##div.dessert-frame
+
+! 2025-07-06 kumomanga.net
+kumomanga.net##div.dessert-frame
+kumomanga.net##div#wbnn
+kumomanga.net##div.kln
+
+! 2025-07-06 manga1688.com
+manga1688.com##div.dessert-frame
+manga1688.com##div#wbnn
+manga1688.com##div.kln
+manga1688.com##div.slider-l
+manga1688.com##div.slider-r
