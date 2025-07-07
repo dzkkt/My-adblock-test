@@ -74,12 +74,12 @@ niceoppai.net##li#text-6
 ! 2024-12-16 oremanga.net
 oremanga.net##div.header-ads-section
 
-! 2024-12-16 doujinza.com
-doujinza.com##div#ads_05
-doujinza.com##div#ads_04
-doujinza.com##div#ads_03
-doujinza.com##div#ads_02
-!doujinza.com##div#ads_01
+! 2025-07-07 doujinza.com
+!doujinza.com##div#ads_05
+!doujinza.com##div#ads_04
+!doujinza.com##div#ads_03
+!doujinza.com##div#ads_02
+!!doujinza.com##div#ads_01
 doujinza.com##div#custom_html-6
 doujinza.com##div#custom_html-5
 !doujinza.com##div#custom_html-4
@@ -279,15 +279,19 @@ flash-manga.com##div.header-ads-section
 ! 2024/12/07 manga-lc.net
 manga-lc.net##div#block-34
 
-! 2024/12/07 up-manga.com
+! 2025/07/07 up-manga.com
 up-manga.com##div.center_upmanga
 up-manga.com##div.center_upmanga3
+up-manga.com##div.center_upmangaza
+up-manga.com##div.center_upmangaza3
 up-manga.com##div#sticky-bottom
 up-manga.com##div#sticky-bottom2
 up-manga.com##div#sticky-bottom3
+!up-manga.com##a[href^="/link_to.php"]
 
-! 2024/12/07 go-manga.com
+! 2025/07/07 go-manga.com
 go-manga.com##div.center_gomanga
+go-manga.com##div.center_gomanga2
 go-manga.com##div.center_gomanga3
 go-manga.com##div#sticky-bottom
 go-manga.com##div#sticky-bottom2
@@ -483,9 +487,6 @@ anime-hit.com##.watch-bnn
 ! 2025-03-31 series-indy.com
 series-indy.com##div.kosana
 
-! 2025-03-31 up-manga.com
-up-manga.com##a[href^="/link_to.php"]
-
 ! 2025-04-01 javcub.org
 javcub.org##a[rel="nofollow external noopener noreferrer"]
 javcub.org##div#ads_03
@@ -541,3 +542,29 @@ manga1688.com##div#wbnn
 manga1688.com##div.kln
 manga1688.com##div.slider-l
 manga1688.com##div.slider-r
+
+! 2025-07-07 toonhunter.com
+toonhunter.com##div.ads-info
+toonhunter.com##div.th-ban
+
+! 2025-07-07 manghaha.com
+manghaha.com##div.adsok
+manghaha.com##img.img-thumbnail
+
+! 2025-07-07 mangastep.com
+mangastep.com##div.ads-info
+mangastep.com##div.th-ban
+
+! 2025-07-07 xenon-manga.com
+xenon-manga.com##div.wrapper>center
+
+! 2025-07-07 mangawei.com
+mangawei.com##div.dessert-frame
+
+! 2025-07-07 manga191.com
+manga191.com##div#block-11
+manga191.com##div.c-footer-sidebar
+!manga191.com##a[href^="/link_to.php"]
+
+! 2025-07-07 mangathailand.com
+mangathailand.com##div.wrapper > a > img
