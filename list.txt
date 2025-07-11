@@ -1,3 +1,5 @@
+! Note kln and dessert-frame only some web have it both , recheck later
+
 ! 2024-12-07 universal site adsblock (allow mediafire)
 mediafire.com#@#div.ads
 ##div.ads
@@ -568,3 +570,30 @@ manga191.com##div.c-footer-sidebar
 
 ! 2025-07-07 mangathailand.com
 mangathailand.com##div.wrapper > a > img
+
+! 2025-07-07 doujinmoon.com
+doujinmoon.com##div.kln
+doujinmoon.com##div.ec-st-cs
+doujinmoon.com##div.ec-st
+doujinmoon.com##div.ads-info
+
+! 2025-07-12 xyzmanga.com
+xyzmanga.com##div.banners
+
+! 2025-07-12 manga248.com
+manga248.com##div.kln
+
+! 2025-07-12 manga-plus.vip
+manga-plus.vip##div.kln
+
+! 2025-07-12 1668manga.com
+1668manga.com##div.kln
+
+! 2025-07-12 hippomanga.com
+hippomanga.com##div.dessert-frame
+hippomanga.com##div#ads_fox_bottom
+hippomanga.com##div.txt
+
+! 2025-07-12 manga689.com
+manga689.com##div.dessert-frame
+
