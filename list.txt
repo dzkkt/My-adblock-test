@@ -10,6 +10,7 @@ mediafire.com#@#div.ads
 ||rakhuay.com/uploads/*.mp4$media
 ||onlysubthai.com/video/*.mp4$media
 ||animeh.net/ads/vid/*.mp4$media
+||av-kuy.com/uploads/*.mp4$media
 
 ||cdend.com^$media,redirect=noop-1s.mp4,third-party
 ||upfastfile.com^$media,redirect=noop-1s.mp4,third-party
@@ -489,26 +490,6 @@ anime-hit.com##.watch-bnn
 ! 2025-03-31 series-indy.com
 series-indy.com##div.kosana
 
-! 2025-04-01 javcub.org
-javcub.org##a[rel="nofollow external noopener noreferrer"]
-javcub.org##div#ads_03
-javcub.org##div#ads_04
-javcub.org##div#ads_05
-javcub.org##div#ads_08
-javcub.org##div#ads_09
-
-! 2025-04-04 javyed.com
-javyed.com##div#ads_03
-javyed.com##div#ads_05
-javyed.com##div.main-content>center
-javyed.com##div#mv-info>center
-
-! 2025-04-04 javded.com
-javded.com##div#ads_03
-javded.com##div#ads_04
-javded.com##div#ads_05
-javded.com##div.row.site-content>center
-
 ! 2025-04-13 เล่าเรื่องเสียว.com
 เล่าเรื่องเสียว.com##center > a > img
 เล่าเรื่องเสียว.com##div#fixedbanner
@@ -596,4 +577,48 @@ hippomanga.com##div.txt
 
 ! 2025-07-12 manga689.com
 manga689.com##div.dessert-frame
+
+! 2025-07-21 24-jav.com
+24-jav.com##div.only-cen
+24-jav.com##div.server
+
+! 2025-07-21 037hdjav.com
+037hdjav.com##div.only-cen
+
+! 2025-07-21 javmost2.video
+javmost2.video##div.only-cen
+
+! 2025-07-21 javcub.vip
+!javcub.vip##a[rel="nofollow external noopener noreferrer"]
+!javcub.vip##div#ads_03
+!javcub.vip##div#ads_04
+!javcub.vip##div#ads_05
+!javcub.vip##div#ads_08
+!javcub.vip##div#ads_09
+javcub.vip##div.floating_content
+javcub.vip##center
+javcub.vip##+js(ra.js, onclick, body)
+
+! 2025-07-21 javyed.net
+javyed.net##div.floating_content
+javyed.net##center
+!javyed.net##div#ads_03
+!javyed.net##div#ads_05
+!javyed.net##div.main-content>center
+!javyed.net##div#mv-info>center
+
+! 2025-07-21 javded.com
+javded.com##div.floating_content
+javded.com##center
+!javded.com##div#ads_03
+!javded.com##div#ads_04
+!javded.com##div#ads_05
+!javded.com##div.row.site-content>center
+
+! 2025-07-21 avkuy.org
+avkuy.org##div.floating_content
+avkuy.org##center
+
+! 2025-07-21 avsubthai.com
+avsubthai.com##div.ads-slide
 
