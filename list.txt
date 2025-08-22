@@ -622,3 +622,6 @@ avkuy.org##center
 ! 2025-07-21 avsubthai.com
 avsubthai.com##div.ads-slide
 
+! 2025-08-23 avjub.com
+avjub.com##div.floating_content
+avjub.com##center
