@@ -630,3 +630,23 @@ avjub.com##center
 25-hd.com##div.player-promo-box
 25-hd.com##div.sidebar-banner-left
 25-hd.com##div.sidebar-banner-right
+
+! 2025-12-24 24-hdmovie.com
+24-hdmovie.com##aside.ad
+24-hdmovie.com##div.adcen
+24-hdmovie.com##div.adl
+24-hdmovie.com##div.adhl
+
+! 2025-12-24 9nung.com
+9nung.com##center
+9nung.com##a[rel="nofollow external noopener"]
+
+! 2025-12-24 24-uhd.com
+24-uhd.com##div.ad-top-center
+24-uhd.com##section#media_image-8
+24-uhd.com##section#media_image-11
+
+! 2025-12-24 movie2freehd.com
+movie2freehd.com##div.ad-left
+movie2freehd.com##div.ad-right
+movie2freehd.com##div.bottom-center
