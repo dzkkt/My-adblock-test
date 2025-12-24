@@ -615,13 +615,18 @@ javded.com##center
 !javded.com##div#ads_05
 !javded.com##div.row.site-content>center
 
-! 2025-07-21 avkuy.org
-avkuy.org##div.floating_content
-avkuy.org##center
-
 ! 2025-07-21 avsubthai.com
 avsubthai.com##div.ads-slide
 
 ! 2025-08-23 avjub.com
 avjub.com##div.floating_content
 avjub.com##center
+
+! 2025-12-24 1112hdz.com
+1112hdz.com##div.vipx-item
+
+! 2025-12-24 25-hd.com
+25-hd.com##div.banner
+25-hd.com##div.player-promo-box
+25-hd.com##div.sidebar-banner-left
+25-hd.com##div.sidebar-banner-right
