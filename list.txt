@@ -12,9 +12,10 @@ mediafire.com#@#div.ads
 ||animeh.net/ads/vid/*.mp4$media
 ||av-kuy.com/uploads/*.mp4$media
 
+||cdn77.org^$media,redirect=noop-1s.mp4,third-party
+
 ||cdend.com^$media,redirect=noop-1s.mp4,third-party
 ||upfastfile.com^$media,redirect=noop-1s.mp4,third-party
-
 
 
 ! 2024-12-16 gbatemp.net
@@ -32,25 +33,15 @@ mawtoload.com##div#banner-post
 !mawtoload.com##div#side-banner
 !mawtoload.com##div#footer-banner
 
-! 2024-12-07 037hdmovie.com
-037hdmovie.com##div#ads-index
-037hdmovie.com##div#ads-popup
-037hdmovie.com##div#ads-sidebar
-037hdmovie.com##div#ads_fox_bottom
-037hdmovie.com##div#ads-single
-037hdmovie.com##div#ads-bottom-player
-037hdmovie.com##div#ads-sidebar-single-top
-037hdmovie.com##div#ads-sidebar-single-bottom
-||cdn77.org^$media,redirect=noop-1s.mp4,third-party
-
-
-! 2023-01-07 037hdmovie.com
-!037hdmovie.com###banner-left
-!037hdmovie.com###ads_fox_bottom
-!037hdmovie.com###content>div.leftC>div:has(>div[style="text-align: center;"])
-!037hdmovie.com##.filmborder>.filmcontent>div[style="text-align: center;"]
-!037hdmovie.com###sidebar>div[style="text-align: center;"]
-!037hdmovie.com###sidebar>div:has(>div>div>div>a)
+! 2026-01-09 037hddmovie.com
+037hddmovie.com##div#ads-index
+037hddmovie.com##div#ads-popup
+037hddmovie.com##div#ads-sidebar
+037hddmovie.com##div#ads_fox_bottom
+037hddmovie.com##div#ads-single
+037hddmovie.com##div#ads-bottom-player
+037hddmovie.com##div#ads-sidebar-single-top
+037hddmovie.com##div#ads-sidebar-single-bottom
 
 
 ! 2024-12-16 anime-subth.net
@@ -59,13 +50,6 @@ anime-subth.net##img.img-ads
 anime-subth.net##div.slider-l
 anime-subth.net##div.slider-r
 anime-subth.net##div.ads-banner
-
-! 2024-12-16 animehayai.net
-animehayai.net##div.col-12
-animehayai.net##div.ads-banner
-animehayai.net##div[class^="column"]
-animehayai.net##div.panel-body > div.bottom-2x.text-center
-animehayai.net##div.banner-close.message
 
 ! 2024-12-16 niceoppai.net
 niceoppai.net##div.widget_text.top_page
@@ -108,29 +92,18 @@ alpha-hen.com##div.dessert-frame
 !alpha-hen.com###custom_html-7
 !alpha-hen.com###custom_html-8
 
-! 2024-12-16 anime-masters.com
-anime-masters.com##div#slider-b
-anime-masters.com##div>.row > p.center_lnwphp
-anime-masters.com##div.col-md-12 > center > p
+! 2026-01-09 anime-masterx.com / old is anime-masters.com
+anime-masterx.com##div#slider-b
+anime-masterx.com##div>.row > p.center_lnwphp
+anime-masterx.com##div.col-md-12 > center > p
 ! remove bottom fucking text content
-anime-masters.com##footer.footer.jumbotron
+anime-masterx.com##footer.footer.jumbotron
 
-! 2024-12-16 anime-suba.com
-anime-suba.com##div.figure02
-anime-suba.com##div#light
-anime-suba.com##div.img01 > a
-anime-suba.com##div.img > a
-
-! 2024/12/16 manga-uptocats.com
-!manga-uptocats.com###upcat_ads1
-!manga-uptocats.com###upcat_ads2
-!manga-uptocats.com###upcat_ads3
-!manga-uptocats.com##.wp-manga.c-top-sidebar.c-sidebar
-!manga-uptocats.com##.text-center.n-ban
-
-! 2023/04/25 nongsexy.com
-nongsexy.com##center
-nongsexy.com##div#fixedbanner
+! 2026-01-09 animesusu.com / old is anime-suba.com
+animesusu.com##div.figure02
+animesusu.com##div#light
+animesusu.com##div.img01 > a
+animesusu.com##div.img > a
 
 ! 2023/04/25 miku-doujin.com
 miku-doujin.com##div.mb-3.text-center.container
@@ -144,37 +117,23 @@ miku-doujin.com##div.mb-3.text-center
 ||hentaithai.com/banner/
 ||hentaithai.com/nb/
 
-! 2024/12/07 animehdzeroo.com *remain 1
-animehdzeroo.com##div#ads_02
-animehdzeroo.com##div#ads_03
-animehdzeroo.com##div#ads_04
-animehdzeroo.com##div.cb-header
-!animehdzeroo.com##div>div.row > div.col-lg-12 > div.cb-header
-!animehdzeroo.com##div.col-lg-3 > div.d-flex align-items-center
-animehdzeroo.com##div.card-body > center > p > a > img.img-fluid
-!animehdzeroo.com##div.col-lg-3 > [href] > img
-animehdzeroo.com##div.card-body > a[target ="_blank"] > img
-
-! 2024/12/07 aunstory.com
-aunstory.com##div.adx_bottom.x_ax
-aunstory.com##img[alt="banner"]
-!aunstory.com##div#wpgtr_stickyads_textcss_container
-
+! 2026/01/09 animehdzerooo.com / old is animehdzeroo.com *remain 1
+animehdzerooo.com##div#ads_02
+animehdzerooo.com##div#ads_03
+animehdzerooo.com##div#ads_04
+animehdzerooo.com##div.cb-header
+!animehdzerooo.com##div>div.row > div.col-lg-12 > div.cb-header
+!animehdzerooo.com##div.col-lg-3 > div.d-flex align-items-center
+animehdzerooo.com##div.card-body > center > p > a > img.img-fluid
+!animehdzerooo.com##div.col-lg-3 > [href] > img
+animehdzerooo.com##div.card-body > a[target ="_blank"] > img
 
 ! 2024/12/07 hanimesubth.com
 hanimesubth.com##div#header-ads
 hanimesubth.com##img.img-ads
 
-
 ! 2024/01/10 animeloki.com
 animeloki.com##div#banner.banner-wrapper
-
-! 2024/02/20 doomovieth.com
-!doomovieth.com##div.text-center.mb-1.col-20.col-md-20.col-lg-20 > [href] > .img-fluid
-doomovieth.com,porn-d.com,ianimeth.com,imovieth.com##div.col-20.col-md-20.col-lg-20 > div.row
-doomovieth.com,porn-d.com,ianimeth.com,imovieth.com##div.my-3.col-20.col-lg-20 > div.row > div.col-20.col-lg-20
-doomovieth.com,porn-d.com,ianimeth.com,imovieth.com##div.mt-1.col-20.col-lg-20 > div.widget
-! ianimeth.com seem like it's died
 
 
 ! 2023/10/18 annoyed ads news
@@ -192,48 +151,37 @@ prachatai.com##div#sliding-popup
 prachatai.com##div.support-pay
 pantip.com##div.pt-snackbar
 
-! 2024/12/16 24-hd.com
-24-hd.com##div.adcen
-24-hd.com##aside.ad
-24-hd.com##div.adhl
-24-hd.com##div.adl
+! 2026/01/09 24-hdmovie.com / old is 24-hd.com
+24-hdmovie.com##div.adcen
+24-hdmovie.com##aside.ad
+24-hdmovie.com##div.adhl
+24-hdmovie.com##div.adl
 ! remove bottom fucking text content
-24-hd.com##div.content-site
+24-hdmovie.com##div.content-site
 
-! 2024/12/07 animeyuzu.com
+! 2026/01/09 anime-yuzu.com / old is animeyuzu.com
 !old is animikimi
-animeyuzu.com##div.module_home_x
-animeyuzu.com##div#animekimiads1
-animeyuzu.com##div#animekimiads2
-animeyuzu.com##div#animekimiads3
-animeyuzu.com##div#animekimiads4
-animeyuzu.com##div#animekimiads5
-animeyuzu.com##img.animekimi-banner
-
-! 2024/12/16 cats-translator.com
-cats-translator.com##div#ads_05
-cats-translator.com##div#ads_04
-cats-translator.com##div#ads_03
-cats-translator.com##div#ads_02
-cats-translator.com##div#custom_html-2
-cats-translator.com##div#custom_html-3
+anime-yuzu.com##div.module_home_x
+anime-yuzu.com##div#animekimiads1
+anime-yuzu.com##div#animekimiads2
+anime-yuzu.com##div#animekimiads3
+anime-yuzu.com##div#animekimiads4
+anime-yuzu.com##div#animekimiads5
+anime-yuzu.com##img.animekimi-banner
 
 ! 2024/12/07 fairyanime.net
 fairyanime.net##div#kosana-content
 fairyanime.net##img.img-ads
 
-! 2024/12/07 germa-66.com
+! 2024/12/07 germa-66.com (maybe dead)
 germa-66.com##div.dessert-frame
 !germa-66.com##div.ads
 
-! 2024-12-07 manga168.net
-manga168.net##div#ads_fox_bottom
-manga168.net##div.kln
-manga168.net##div.dessert-frame
+! 2026-01-09 manga1688.com / old is manga168.net
+manga1688.com##div#ads_fox_bottom
+manga1688.com##div.kln
+manga1688.com##div.dessert-frame
 
-! 2024-12-16 movieshdfree.com
-movieshdfree.com##div.adhl
-movieshdfree.com##div.adbr
 
 ! 2024-12-07 opuree.com
 opuree.com##a[rel="nofollow external"]
@@ -257,10 +205,11 @@ opuree.com##a[rel="nofollow external"]
 ! 2024-12-07 nabee-manga.com
 nabee-manga.com##div.header-ads-section
 
-! 2024-12-07 คลิปโป๊ออนไลน์.com
-xn--42c6baga2dd6da0eti2a8e8a.com##center
-xn--42c6baga2dd6da0eti2a8e8a.com##div#slider-l
-xn--42c6baga2dd6da0eti2a8e8a.com##div#slider-r
+! 2026-01-09 คลิปโป๊ออนไลน์.net
+xn--42c6baga2dd6da0eti2a8e8a.net##div#ads-slide
+!xn--42c6baga2dd6da0eti2a8e8a.net##center
+!xn--42c6baga2dd6da0eti2a8e8a.net##div#slider-l
+!xn--42c6baga2dd6da0eti2a8e8a.net##div#slider-r
 
 ! 2024/12/16 tanuki-manga.com
 !tanuki-manga.com##div.ads
@@ -305,23 +254,15 @@ toomtam-manga.com##div.dessert-frame
 toomtam-manga.com##div#wbnn
 toomtam-manga.com##div.kln
 
-! 2024/12/14 series-888.com
-series-888.com##div#srb_widget_ads-3
-series-888.com##div#srb_widget_ads-4
-
-! 2024/12/14 1112hd.com
-1112hd.com##div.tt_banner_above_vdo_player
-
-! 2024/12/14 series469.com
-series469.com##div#bps_widget_ads-2
-series469.com##div#bps_widget_ads-3
+! 2026/01/09 1112hdz.com / old is 1112hd.com
+1112hdz.com##div.tt_banner_above_vdo_player
 
 ! 2024/12/14 ped-manga.com
 ped-manga.com##div.dessert-frame
 ped-manga.com##div#wbnn
 
-! 2024-12-15 moviehdfree.net
-moviehdfree.net##a[rel="nofollow noopener noreferrer"]
+! 2024-12-15 77hdfree.com / old is moviehdfree.net
+77hdfree.com##a[rel="nofollow noopener noreferrer"]
 
 ! 2024-12-15 av-subthaix.net
 av-subthaix.net##div.b-ads
@@ -588,35 +529,35 @@ manga689.com##div.dessert-frame
 ! 2025-07-21 javmost2.video
 javmost2.video##div.only-cen
 
-! 2025-07-21 javcub.vip
-!javcub.vip##a[rel="nofollow external noopener noreferrer"]
-!javcub.vip##div#ads_03
-!javcub.vip##div#ads_04
-!javcub.vip##div#ads_05
-!javcub.vip##div#ads_08
-!javcub.vip##div#ads_09
-javcub.vip##div.floating_content
-javcub.vip##center
-javcub.vip##+js(ra.js, onclick, body)
+! 2026-05-06 javcub.org
+!javcub.org##a[rel="nofollow external noopener noreferrer"]
+!javcub.org##div#ads_03
+!javcub.org##div#ads_04
+!javcub.org##div#ads_05
+!javcub.org##div#ads_08
+!javcub.org##div#ads_09
+javcub.org##div.floating_content
+javcub.org##center
+javcub.org##+js(ra.js, onclick, body)
 
-! 2025-07-21 javyed.net
-javyed.net##div.floating_content
-javyed.net##center
-!javyed.net##div#ads_03
-!javyed.net##div#ads_05
-!javyed.net##div.main-content>center
-!javyed.net##div#mv-info>center
+! 2026-09-01 javyed.org
+javyed.org##div.floating_content
+javyed.org##center
+!javyed.org##div#ads_03
+!javyed.org##div#ads_05
+!javyed.org##div.main-content>center
+!javyed.org##div#mv-info>center
 
-! 2025-07-21 javded.com
-javded.com##div.floating_content
-javded.com##center
-!javded.com##div#ads_03
-!javded.com##div#ads_04
-!javded.com##div#ads_05
-!javded.com##div.row.site-content>center
+! 2026-09-01 javded.org
+javded.org##div.floating_content
+javded.org##center
+!javded.org##div#ads_03
+!javded.org##div#ads_04
+!javded.org##div#ads_05
+!javded.org##div.row.site-content>center
 
-! 2025-07-21 avsubthai.com
-avsubthai.com##div.ads-slide
+! 2026-09-01 avsubth.com old is avsubthai.com
+avsubth.com##div.ads-slide
 
 ! 2025-08-23 avjub.com
 avjub.com##div.floating_content
@@ -650,3 +591,44 @@ avjub.com##center
 movie2freehd.com##div.ad-left
 movie2freehd.com##div.ad-right
 movie2freehd.com##div.bottom-center
+
+! 2026-03-05 animeruka.com
+animeruka.com##div#ad-group-a
+animeruka.com##div#ad-group-c1
+animeruka.com##div#ad-group-c2
+animeruka.com##div#box-side-l
+animeruka.com##div#box-side-r
+animeruka.com##div#box-footer-fix
+
+! 2026-03-05 fairyanime.net
+fairyanime.net##div#floating-banner-container
+
+! 2026-03-05 anime108.com
+anime108.com##aside.ad
+anime108.com##div.adc
+anime108.com##div.adcen2
+anime108.com##section.adlf2
+
+! 2026-05-06 thaixtale.com
+thaixtale.com##div.lazyloaded
+thaixtale.com##div#srp-popup-overlay
+
+! 2026-05-06 avkuy.com
+avkuy.com##div#ads_03
+avkuy.com##div#ads_04
+avkuy.com##div#ads_05
+avkuy.com##div#ads_06
+avkuy.com##div#ads_07
+avkuy.com##div#ads_08
+avkuy.com##div#ads_09
+avkuy.com##center
+
+! 2026-05-06 javwow.com
+javwow.com##div.banner-grid-container
+javwow.com##div#ads_02
+javwow.com##div#ads_03
+javwow.com##div#ads_04
+javwow.com##div#ads_05
+javwow.com##div#ads_06
+javwow.com##div#ads_08
+javwow.com##div#ads_09
