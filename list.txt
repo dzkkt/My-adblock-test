@@ -231,20 +231,20 @@ flash-manga.com##div.header-ads-section
 ! 2024/12/07 manga-lc.net
 manga-lc.net##div#block-34
 
-! 2025/07/07 up-manga.com
+! 2026/05/11 up-manga.com
 up-manga.com##div.center_upmanga
-up-manga.com##div.center_upmanga3
 up-manga.com##div.center_upmangaza
-up-manga.com##div.center_upmangaza3
+up-manga.com##div.center_upmangasolo
 up-manga.com##div#sticky-bottom
 up-manga.com##div#sticky-bottom2
 up-manga.com##div#sticky-bottom3
 !up-manga.com##a[href^="/link_to.php"]
 
-! 2025/07/07 go-manga.com
+! 2026/05/11 go-manga.com
 go-manga.com##div.center_gomanga
-go-manga.com##div.center_gomanga2
-go-manga.com##div.center_gomanga3
+go-manga.com##div.center_gomangaza
+go-manga.com##div.center_gomangafixsize
+go-manga.com##div.center_gomangasolo
 go-manga.com##div#sticky-bottom
 go-manga.com##div#sticky-bottom2
 go-manga.com##div#sticky-bottom3
@@ -592,8 +592,9 @@ movie2freehd.com##div.ad-left
 movie2freehd.com##div.ad-right
 movie2freehd.com##div.bottom-center
 
-! 2026-03-05 animeruka.com
+! 2026-05-11 animeruka.com
 animeruka.com##div#ad-group-a
+animeruka.com##div#ad-group-b
 animeruka.com##div#ad-group-c1
 animeruka.com##div#ad-group-c2
 animeruka.com##div#box-side-l
@@ -632,3 +633,51 @@ javwow.com##div#ads_05
 javwow.com##div#ads_06
 javwow.com##div#ads_08
 javwow.com##div#ads_09
+
+! 2026-05-11 dark-manga.com
+dark-manga.com##div#sticky-bottom
+dark-manga.com##div#sticky-bottom2
+dark-manga.com##div#sticky-bottom3
+dark-manga.com##div.center_darkmangaza
+dark-manga.com##div.center_darkmanga
+dark-manga.com##div.center_darkmangasolo
+
+! 2026-05-11 fin-manga.com
+fin-manga.com##div#sticky-bottom
+fin-manga.com##div#sticky-bottom2
+fin-manga.com##div#sticky-bottom3
+fin-manga.com##div.center_finmanga
+fin-manga.com##div.center_finmangaza
+
+! 2026-05-11 black-manga.com
+black-manga.com##div#sticky-bottom
+black-manga.com##div#sticky-bottom2
+black-manga.com##div#sticky-bottom3
+black-manga.com##div.center_blackmanga
+black-manga.com##div.center_blackmangaza
+
+! 2026-05-11 manga-1668.com
+manga-1668.com##div.dessert-frame
+manga-1668.com##div.kln
+
+! 2026-05-11 manga-d.com
+manga-d.com##div.covernews-banner-grid
+
+! 2026-05-11 madoo-manga.com
+madoo-manga.com##div.kln
+madoo-manga.com##a[rel="nofollow noopener"]
+
+! 2026-05-11 speed-manga.net
+speed-manga.net##div.dessert-frame
+speed-manga.net##div.kln
+speed-manga.net##div.tt_bfx
+
+! 2026-05-11 cartoon-th.com
+cartoon-th.com##div.dessert-frame
+cartoon-th.com##div.kln
+
+! 2026-05-11 kuromanganow.com
+kuromanganow.com##div.center_kuromanganow
+
+! 2026-05-11 mangathailand.com
+mangathailand.com##center
