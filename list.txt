@@ -9,7 +9,6 @@ mediafire.com#@#div.ads
 ||proxyplayerth.com/images/banners/*.mp4$media
 ||rakhuay.com/uploads/*.mp4$media
 ||onlysubthai.com/video/*.mp4$media
-||animeh.net/ads/vid/*.mp4$media
 ||av-kuy.com/uploads/*.mp4$media
 
 ||cdn77.org^$media,redirect=noop-1s.mp4,third-party
@@ -177,10 +176,8 @@ fairyanime.net##img.img-ads
 germa-66.com##div.dessert-frame
 !germa-66.com##div.ads
 
-! 2026-01-09 manga1688.com / old is manga168.net
-manga1688.com##div#ads_fox_bottom
-manga1688.com##div.kln
-manga1688.com##div.dessert-frame
+! 2026-05-17 es6-features.org / manga1688.com / old is manga168.net
+es6-features.org##center.banner-grid
 
 
 ! 2024-12-07 opuree.com
@@ -431,9 +428,18 @@ anime-hit.com##.watch-bnn
 ! 2025-03-31 series-indy.com
 series-indy.com##div.kosana
 
-! 2025-04-13 เล่าเรื่องเสียว.com
-เล่าเรื่องเสียว.com##center > a > img
-เล่าเรื่องเสียว.com##div#fixedbanner
+! 2026-05-17 story.เล่าเรื่องเสียว.com
+story.เล่าเรื่องเสียว.com##center
+story.เล่าเรื่องเสียว.com##div#fixedbanner
+
+! 2026-05-17 อ่านเรื่องเสียว.com
+อ่านเรื่องเสียว.com##section#block-8
+อ่านเรื่องเสียว.com##section#block-9
+อ่านเรื่องเสียว.com##section#block-10
+
+! 2026-05-17 avee.club
+avee.club##div[data-id="eb75b56"]
+avee.club##div[data-id="dfd1982"]
 
 ! 2025-07-06 speed-manga.com
 speed-manga.com##div.kln
@@ -441,16 +447,10 @@ speed-manga.com##div.kln
 ! 2025-07-06 slow-manga.com
 slow-manga.com##div.header-ads-section
 
-! 2025-07-06 sawstory.com
-sawstory.com##div.x_ax adx_bottom
-sawstory.com##a[rel="nofollow"]
-
-! 2025-07-06 animeh.net
-animeh.net##div#ads
-animeh.net##div#adsR
-animeh.net##div#ads_bottom
-animeh.net##div#adsanimeh
-animeh.net##li.cat-item
+! 2026-05-17 sawstory.com
+sawstory.com##div.adx_bottom
+!sawstory.com##a[rel="nofollow"]
+sawstory.com##img.aligncenter
 
 ! 2025-07-06 mafia-manga.com
 mafia-manga.com##div.dessert-frame
@@ -604,15 +604,17 @@ animeruka.com##div#box-footer-fix
 ! 2026-03-05 fairyanime.net
 fairyanime.net##div#floating-banner-container
 
-! 2026-03-05 anime108.com
+! 2026-05-12 anime108.com
 anime108.com##aside.ad
 anime108.com##div.adc
 anime108.com##div.adcen2
 anime108.com##section.adlf2
 
+
 ! 2026-05-06 thaixtale.com
 thaixtale.com##div.lazyloaded
 thaixtale.com##div#srp-popup-overlay
+||thaixtale.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js
 
 ! 2026-05-06 avkuy.com
 avkuy.com##div#ads_03
@@ -681,3 +683,83 @@ kuromanganow.com##div.center_kuromanganow
 
 ! 2026-05-11 mangathailand.com
 mangathailand.com##center
+
+! 2026-05-12 animewaku.com
+animewaku.com##center
+animewaku.com##div.module_home_x
+animewaku.com##div.code-block-4
+
+! 2026-05-12 anime-hit.com
+anime-hit.com##div#head_ads
+anime-hit.com##div#adsR
+anime-hit.com##div#ads_bottom
+hit.team-indy.net##div#overlay
+
+! 2026-05-12 animeyour.com
+animeyour.com##div#head_ass
+animeyour.com##div.watch-bnn:has(>a[target="_blank"])
+
+! 2026-05-12 anime-no1.com
+anime-no1.com##div#head_ass
+anime-no1.com##div.watch-bnn:has(>a[target="_blank"])
+
+! 2026-05-12 anime-gogo.com
+anime-gogo.com##div.watch-bnn:has(>a[target="_blank"])
+
+! 2026-05-12 animemomo.com
+animemomo.com##div.promo-zone
+
+! 2026-05-12 anime-seven.com
+anime-seven.com##p.center_lnwphp
+anime-seven.com##center:has(>a[target="_blank"])
+
+! 2026-05-12 lnwanime.com
+lnwanime.com##div#ads_02
+lnwanime.com##div#ads_03
+lnwanime.com##div#ads_04
+lnwanime.com##img.img-fluid
+
+! 2026-05-12 037-anime.com
+037-anime.com##div.vipx-grid
+
+! 2026-05-12 037am.com
+037am.com##div.list-bbr
+
+! 2026-05-12 anime-zuzu.com
+anime-zuzu.com##div.white_content2
+anime-zuzu.com##div.white_content3
+anime-zuzu.com##div.white_content02
+anime-zuzu.com##div.white_content03
+anime-zuzu.com##div.figure02
+anime-zuzu.com##div.img01 > a > img
+anime-zuzu.com##div.img > a > img
+
+! 2026-05-12 anime-99.com
+anime-99.com##div.header-side
+anime-99.com##img.img-fluid
+
+! 2026-05-12 animegojoz.com
+animegojoz.com##div.bannerrow
+
+! 2026-05-11 animeyoko.com
+animeyoko.com##div.dessert-frame
+animeyoko.com##div#flt-bn
+animeyoko.com##center
+
+! 2026-05-17 apexmanga.com
+apexmanga.com##div#h2xv2qjucyu
+apexmanga.com##div.dessert-frame
+
+! 2026-05-17 zen-manga.com
+zen-manga.com##div.dessert-frame
+
+! 2026-05-17 doujin-lc.net
+doujin-lc.net##div#block-12
+
+! 2026-05-17 chibi-manga.com
+chibi-manga.com##div.tt_bfx
+chibi-manga.com##div.dessert-frame
+chibi-manga.com##div.kln
+
+! 2026-05-17 frank-manga.com
+frank-manga.com##a[rel="nofollow noopener"]
