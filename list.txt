@@ -14,7 +14,10 @@ mediafire.com#@#div.ads
 ||cdn77.org^$media,redirect=noop-1s.mp4,third-party
 
 ||cdend.com^$media,redirect=noop-1s.mp4,third-party
+
 ||upfastfile.com^$media,redirect=noop-1s.mp4,third-party
+||vfs.travapo.com^$media,redirect=noop-1s.mp4,third-party
+
 
 
 ! 2024-12-16 gbatemp.net
@@ -84,8 +87,9 @@ cyberpor.com##div.modal-backdrop
 !cyberpor.com##div#adsModal
 ||cameron-srva.com^$media,redirect=noop-1s.mp4,third-party
 
-! 2024-12-16 alpha-hen.com
+! 2026-05-17 alpha-hen.com
 alpha-hen.com##div.dessert-frame
+alpha-hen.com##div.ez-ad-sticky
 !no specific tag becoz some use section/div/li
 !alpha-hen.com###custom_html-5
 !alpha-hen.com###custom_html-7
@@ -172,7 +176,7 @@ anime-yuzu.com##img.animekimi-banner
 fairyanime.net##div#kosana-content
 fairyanime.net##img.img-ads
 
-! 2024/12/07 germa-66.com (maybe dead)
+! 2024/12/07 germa-66.com
 germa-66.com##div.dessert-frame
 !germa-66.com##div.ads
 
@@ -289,12 +293,16 @@ animesiam.com##div#abs_banner_web
 anime-kawaii.net##div.container > div.row > p.center_lnwphp
 anime-kawaii.net##div.panel-body > center > p
 
-! 2024-12-15 baan-series.org
+! 2026-05-21 baan-series.org
 baan-series.org##div#before-player-ads
 baan-series.org##div#after-player-ads
+baan-series.org##div#top-ads-content
+baan-series.org##div.tt_bfx
+!baan-series.org##a[rel="nofollow noopener"]
 
-! 2024-12-16 subthaixxx.com
-subthaixxx.com##img.ads800
+! 2026-05-21 subthaixxx.me / old is subthaixxx.com
+subthaixxx.me##div#ads-slide
+subthaixxx.me##div#ads-single
 
 ! 2024-12-16 pornxx24.com
 pornxx24.com##aside.banner-top
@@ -302,20 +310,6 @@ pornxx24.com##aside.banner
 pornxx24.com##aside.banner-pag-1
 pornxx24.com##aside.banner-pag-2
 pornxx24.com##div.ad-float
-
-! 2024-12-16 javx24.com
-javx24.com##aside.banner
-javx24.com##aside.float-banner
-javx24.com##aside.bannerx
-javx24.com##div.ads-player-movie
-
-! 2024-12-16 javdob.com
-javdob.com##aside.clma12d04.dvcl
-javdob.com##center#bannermo550
-javdob.com##div#bt-ads
-
-! 2024-12-16 inu-manga.com
-inu-manga.com##div.header-ads-section
 
 ! 2024-12-16 reborntrans.com
 reborntrans.com##div.wbnn
@@ -763,3 +757,20 @@ chibi-manga.com##div.kln
 
 ! 2026-05-17 frank-manga.com
 frank-manga.com##a[rel="nofollow noopener"]
+
+! 2026-05-21 avxee.com
+avxee.com##div#ads_01
+avxee.com##div#ads_02
+avxee.com##div#ads_03
+avxee.com##div#ads_04
+avxee.com##div#ads_05
+avxee.com##center
+
+! 2026-05-21 avhdfe.com
+avhdfe.com##a[rel="nofollow"]
+
+! 2026-05-21 avsubthai.men
+avsubthai.men##div#ads-slide
+||videos.cdnstorage-1.top/*.mp4
+
+
