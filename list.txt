@@ -18,6 +18,8 @@ mediafire.com#@#div.ads
 ||upfastfile.com^$media,redirect=noop-1s.mp4,third-party
 ||vfs.travapo.com^$media,redirect=noop-1s.mp4,third-party
 
+||pgk44d.net/*.mp4$redirect=noop-1s.mp4
+
 
 
 ! 2024-12-16 gbatemp.net
@@ -111,14 +113,6 @@ animesusu.com##div.img > a
 ! 2023/04/25 miku-doujin.com
 miku-doujin.com##div.mb-3.text-center.container
 miku-doujin.com##div.mb-3.text-center
-
-! 2024/12/07 hentaithai.com
-!hentaithai.com##div.row:nth-of-type(2)
-!hentaithai.com###nziKSZf1
-!hentaithai.com##.iframe-width
-!hentaithai.com##.justify-content-sm-center.row > .col-12
-||hentaithai.com/banner/
-||hentaithai.com/nb/
 
 ! 2026/01/09 animehdzerooo.com / old is animehdzeroo.com *remain 1
 animehdzerooo.com##div#ads_02
@@ -770,7 +764,26 @@ avxee.com##center
 avhdfe.com##a[rel="nofollow"]
 
 ! 2026-05-21 avsubthai.men
+avsubthai.men##div#ads-header
 avsubthai.men##div#ads-slide
+avsubthai.men##div#ads-single
 ||videos.cdnstorage-1.top/*.mp4
+
+! 2026-05-26 avhdfi.com
+avhdfi.com##section.single-video-player > div > div > div > a > img
+avhdfi.com##div#ad-left-stack
+avhdfi.com##div#ad-right-stack
+
+! 2026-05-26 sc24.com
+sc24.com##center
+sc24.com##div#custom-promo-popup-overlay
+sc24.com##div.custom-promo-overlay
+sc24.com##div.custom-promo-overlay-video
+sc24.com##div.promo-banner
+sc24.com##div.side-skyscraper
+sc24.com##div#first-gate
+sc24.com##div.bcm-ads
+!Skip video ads
+||sc24.com/wp-content/uploads/*.mp4$redirect=noop-1s.mp4
 
 
