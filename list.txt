@@ -787,5 +787,3 @@ sc24.com##div#first-gate
 sc24.com##div.bcm-ads
 !Skip video ads
 ||sc24.com/wp-content/uploads/*.mp4$redirect=noop-1s.mp4
-
-
