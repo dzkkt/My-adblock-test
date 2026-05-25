@@ -20,7 +20,7 @@ mediafire.com#@#div.ads
 
 
 ||cdend.com^$media,redirect=noop-1s.mp4,third-party
-||allmp4.pro^$media,redirect=noop-1s.mp4,third-party
+||allmp4.pro/assets/*.mp4$media
 
 
 
