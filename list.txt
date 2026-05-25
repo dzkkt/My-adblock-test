@@ -13,12 +13,14 @@ mediafire.com#@#div.ads
 
 ||cdn77.org^$media,redirect=noop-1s.mp4,third-party
 
-||cdend.com^$media,redirect=noop-1s.mp4,third-party
-
 ||upfastfile.com^$media,redirect=noop-1s.mp4,third-party
 ||vfs.travapo.com^$media,redirect=noop-1s.mp4,third-party
 
 ||pgk44d.net/*.mp4$redirect=noop-1s.mp4
+
+
+||cdend.com^$media,redirect=noop-1s.mp4,third-party
+||allmp4.pro^$media,redirect=noop-1s.mp4,third-party
 
 
 
