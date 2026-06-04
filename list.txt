@@ -787,3 +787,64 @@ sc24.com##div#first-gate
 sc24.com##div.bcm-ads
 !Skip video ads
 ||sc24.com/wp-content/uploads/*.mp4$redirect=noop-1s.mp4
+
+! 2026-05-30 24hd.net
+24hd.net##div.elementor-widget-image:has(a[href])
+24hd.net##picture
+
+! 2026-05-30 77-hd.com
+77-hd.com##div.main-banner-wrap
+77-hd.com##div.sidebar-banner
+77-hd.com##div.banner
+
+! 2026-05-30 allinhd.com
+allinhd.com##div.adzz-2
+allinhd.com##div.side-banner
+allinhd.com##div#ads_fix_footer
+allinhd.com##div#banner_popup
+||sv1.cdnbm168.xyz^$media,redirect=noop-1s.mp4
+
+! 2026-05-30 kahirihome.com
+kahirihome.com##div.fixed-banner
+kahirihome.com##div.elementor-widget-image:has(a[href])
+kahirihome.com##img.ad-img-mobile-fix
+
+! 2026-05-30 v8-hdd.com
+v8-hdd.com##div.row-kodsana-container
+v8-hdd.com##div.row-kodsana.page_margin_top
+v8-hdd.com##div#ads-all
+
+! 2026-05-30 dunung24.com
+dunung24.com##div.dn24-fast-banner
+dunung24.com##div.dn24-banner-wrap
+dunung24.com##div.dn24-banner-850x200
+dunung24.com##div.bbx-hide
+dunung24.com##div.elementor-widget-image:has(a[href])
+
+! 2026-06-05 037hdtv.com
+037hdtv.com##div.vipx-grid
+
+! 2026-06-05 goseries4k.com
+goseries4k.com##div.vipx-grid
+
+! 2026-06-05 movie2thai.com
+movie2thai.com##div[itemprop="banner"]
+movie2thai.com##aside#custom_html-1
+movie2thai.com##aside#custom_html-2
+
+! 2026-06-05 de88-hd.com
+de88-hd.com##a[rel="nofollow noopener noreferrer"]
+
+! 2026-06-05 serie-days.com
+serie-days.com##aside.ad
+serie-days.com##div.adhl
+serie-days.com##div.adb
+serie-days.com##div.adl
+
+! 2026-06-05 123-hds.com
+123-hds.com##div#banner_top
+
+! 2026-06-05 subserieshd.com
+subserieshd.com##div#banner
+subserieshd.com##div#bt-ads-mini
+subserieshd.com##div#bt-ads-mini2
