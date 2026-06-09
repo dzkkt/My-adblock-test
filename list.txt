@@ -743,8 +743,10 @@ apexmanga.com##div.dessert-frame
 ! 2026-05-17 zen-manga.com
 zen-manga.com##div.dessert-frame
 
-! 2026-05-17 doujin-lc.net
-doujin-lc.net##div#block-12
+! 2026-06-09 doujin-lc.net
+!doujin-lc.net##div#block-12
+doujin-lc.net##div.text-centerd
+doujin-lc.net##div.floating_content
 
 ! 2026-05-17 chibi-manga.com
 chibi-manga.com##div.tt_bfx
@@ -848,3 +850,29 @@ serie-days.com##div.adl
 subserieshd.com##div#banner
 subserieshd.com##div#bt-ads-mini
 subserieshd.com##div#bt-ads-mini2
+
+! 2026-06-06 doujin-lc.net
+doujin-lc.net##div.floating_content
+doujin-lc.net##div#block-18
+
+! 2026-06-06 hentaithai.net
+hentaithai.net##div.banner-viewport
+hentaithai.net##div.banner-viewport-side
+
+! 2026-06-06 ecchi-doujin.com
+ecchi-doujin.com##div.kln
+ecchi-doujin.com##div.ec-st
+ecchi-doujin.com##div.widget-info
+
+! 2026-06-06 doujinmoon.com
+doujinmoon.com##div.widget-info
+
+! 2026-06-06 doujin89.com
+doujin89.com##div.kln
+doujin89.com##div.dj-cn
+doujin89.com##div.widget-info
+
+! 2026-06-06 thai-hentai.com
+thai-hentai.com##div#speed_sponser
+thai-hentai.com##div.col-md-6 > a
+
